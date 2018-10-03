@@ -5,6 +5,6 @@ permalink: /resources/
 ---
 Welcome to the Resources page !
 
-Heres a [sample].
+Heres a [sample][samp].
 
-sample: /Section03-Structures.ppt
+[samp]: /Section03-Structures.ppt
