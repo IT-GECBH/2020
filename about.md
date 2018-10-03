@@ -3,7 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Check out my [Instagram][insta] page.
-
-[insta]: https://www.instagram.com/ashwindasr
+Welcome to the website of S5 IT !
