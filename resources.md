@@ -3,10 +3,8 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-Welcome to the Resources page !
-
-# Theory of computation
-## Series 1:
+## Theory of computation
+# Series 1:
    * [Instruction set of 8086 ppt][8086-instruction-set]
    * [Module 2 ppt][module_2]
    * [Procedure and macros ppt][macros_ppt]
