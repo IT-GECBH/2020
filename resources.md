@@ -17,8 +17,8 @@ Series 1:
 
 
 
-[8086_instruction_set]: /resources/MICROPROCESSOR/instruction-set-of-8086.ppt
-[module_2]: /resources/MICROPROCESSOR/Module_2.ppt
+[8086_instruction_set]: /resources/MICROPROCESSOR/instruction-set-of-8086.pptx
+[module_2]: /resources/MICROPROCESSOR/Module_2.pptx
 [macros_ppt]: /resources/MICROPROCESSOR/procedure_and_macros.ppt
 [intra_direct_indirect]: /resources/MICROPROCESSOR/intra_direct_indirect.jpeg
 [inter_direct_indirect]:/resources/MICROPROCESSOR/inter_direct_indirect.jpeg
