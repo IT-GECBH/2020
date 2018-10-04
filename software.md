@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: software
 permalink: /resources/software/
 ---
