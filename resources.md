@@ -33,6 +33,11 @@ permalink: /resources/
  * [Use case diagram for Banking][use-bank]
  * [Use case diagram for ATM machine][use-atm]
 
+## Theory of Computation
+# Series 1:
+ * [TOC notes][t-note]
+ 
+ 
 [8086-instruction-set]: /resources/MICROPROCESSOR/series1/instruction-set-of-8086.pptx
 [module_2]: /resources/MICROPROCESSOR/series1/Module_2.pptx
 [macros_ppt]: /resources/MICROPROCESSOR/series1/procedure_and_macros.ppt
@@ -55,3 +60,5 @@ permalink: /resources/
 [use-ex]: /resources/SOFTWARE/series1/usecase_example.docx
 [use-bank]: /resources/SOFTWARE/series1/banking_usecase.jpg
 [use-atm]: /resources/SOFTWARE/series1/atm_usecase.png
+
+[t-note]: /resources/TOC/series1/TOC_notes.doc
