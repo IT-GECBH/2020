@@ -28,10 +28,11 @@ permalink: /resources/
  * [Chapter 1: Introduction to Software Engg][chap-1]
  * [Chapter 3: Software Process Model][chap-3]
  * [Goals of software design][goal-soft]
- * [Types of UML Diagrams][types-UML]
- * [Usecase Example][use-ex]
- * [Use case diagram for Banking][use-bank]
- * [Use case diagram for ATM machine][use-atm]
+ * UML
+   * [Types of UML Diagrams][types-UML]
+   * [Usecase Example][use-ex]
+   * [Use case diagram for Banking][use-bank]
+   * [Use case diagram for ATM machine][use-atm]
 
 ## **Theory of Computation**
 # Series 1:
