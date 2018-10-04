@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-## Theory of computation
+## **Theory of computation**
 # Series 1:
   * [Instruction set of 8086 ppt][8086-instruction-set]
   * [Module 2 ppt][module_2]
@@ -12,7 +12,7 @@ permalink: /resources/
   * [Inter segment Direct/Indirect mode][inter_direct_indirect]
   * [Relative based index addressing][rel_index_add]
 
-## Operating Systems
+## **Operating Systems**
 # Series 1:
   * [Process creation, Coordination and Synchronization][PCS]
   * [Operating System Structures][Section03-Structures]
@@ -21,7 +21,7 @@ permalink: /resources/
   * [Operating systems overview][operating_systems_overview]
   
   
-## Software Architecture
+## **Software Architecture**
 # Series 1:
  * [Process models][process-models]
  * [Software Design Principles][soft-design-principles]
@@ -33,7 +33,7 @@ permalink: /resources/
  * [Use case diagram for Banking][use-bank]
  * [Use case diagram for ATM machine][use-atm]
 
-## Theory of Computation
+## **Theory of Computation**
 # Series 1:
  * [TOC notes][t-note]
  
