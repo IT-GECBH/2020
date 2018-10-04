@@ -5,14 +5,14 @@ permalink: /resources/
 ---
 Welcome to the Resources page !
 
-Theory of computation
-Series 1:
-    - [Instruction set of 8086 ppt][8086-instruction-set]
-    - [Module 2 ppt][module_2]
-    - [Procedure and macros ppt][macros_ppt]
-    - [Intra segment Direct/Indirect mode][intra_direct_indirect]
-    - [Inter segment Direct/Indirect mode][inter_direct_indirect]
-    - [Relative based index addressing][rel_index_add]
+# Theory of computation
+## Series 1:
+   * [Instruction set of 8086 ppt][8086-instruction-set]
+   * [Module 2 ppt][module_2]
+   * [Procedure and macros ppt][macros_ppt]
+   * [Intra segment Direct/Indirect mode][intra_direct_indirect]
+   * [Inter segment Direct/Indirect mode][inter_direct_indirect]
+   * [Relative based index addressing][rel_index_add]
    
 
 
