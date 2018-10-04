@@ -3,11 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-Welcome to the website of S5 IT !
+For notes and ppts, check out the [Resources] page.
 
-To download notes and ppts, check the [Resources] page.
-
-Follow the posts on the [Home] page for new updates.
+Follow the posts on the [Home] page for new updates !
 
 [Home]: /
 [Resources]: /resources/
