@@ -12,7 +12,8 @@ permalink: /resources/
   * [Inter segment Direct/Indirect mode][inter_direct_indirect]
   * [Relative based index addressing][rel_index_add]
    
-   
+ <br />
+ <br />
 ## Operating Systems
 # Series 1:
   * [Process creation, Coordination and Synchronization][PCS]
