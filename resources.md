@@ -14,7 +14,7 @@ permalink: /resources/
    
 ## Operating Systems
 # Series 1:
-  * [Process creation, Coordination and Synchronization][Procees creatn,Cooprtn,Synchrtn1]
+  * [Process creation, Coordination and Synchronization][PCS]
   * [Operating System Structures][Section03-Structures]
   * [Processes][Section04-Processes4 class]
   * [Scheduling][Section05-Scheduling 4clas final]
@@ -30,7 +30,7 @@ permalink: /resources/
 [inter_direct_indirect]:/resources/MICROPROCESSOR/series1/inter_direct_indirect.jpeg
 [rel_index_add]:/resources/MICROPROCESSOR/series1/relative_based_index_addressing.jpeg
 
-[Procees creatn,Cooprtn,Synchrtn1]: /resources/OS/series1/Processcreatn,Cooprtn,Synchrtn1.ppt
+[PCS]: /resources/OS/series1/processcreation_coorporation_synchronization.ppt
 [Section03-Structures]: /resources/OS/series1/Section03-Structures.ppt
 [Section04-Processes4 class]: /resources/OS/series1/Section04-Processes4_class.ppt
 [Section05-Scheduling 4clas final]: /resources/OS/series1/Section05-Scheduling_4clas_final.ppt
