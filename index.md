@@ -4,3 +4,11 @@
 
 layout: home
 ---
+| Semester V | 1   | 2   | 3  | 4       |   | 5    | 6 | 7 |
+|------------|-----|-----|----|---------|---|------|---|---|
+| Day/Time   |     |     |    |         |   |      |   |   |
+| Monday     | TOC | CNW | OS | UNIX/CG |   | SADP |   |   |
+| Tuesday    |     |     |    |         |   |      |   |   |
+| Wednesday  |     |     |    |         |   |      |   |   |
+| Thursday   |     |     |    |         |   |      |   |   |
+| Friday     |     |     |    |         |   |      |   |   |
