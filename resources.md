@@ -5,9 +5,9 @@ permalink: /resources/
 ---
 ## **Theory of computation**
 # Series 1:
-  * [Instruction set of 8086 ppt][8086-instruction-set]
-  * [Module 2 ppt][module_2]
-  * [Procedure and macros ppt][macros_ppt]
+  * [Instruction set of 8086][8086-instruction-set]
+  * [Module 2][module_2]
+  * [Procedure and macros][macros_ppt]
   * [Intra segment Direct/Indirect mode][intra_direct_indirect]
   * [Inter segment Direct/Indirect mode][inter_direct_indirect]
   * [Relative based index addressing][rel_index_add]
