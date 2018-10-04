@@ -7,7 +7,7 @@ Welcome to the Resources page !
 
 Theory of computation
 Series 1:
-    - [Instruction set of 8086 ppt][8086_instruction_set]
+    - [Instruction set of 8086 ppt][8086-instruction-set]
     - [Module 2 ppt][module_2]
     - [Procedure and macros ppt][macros_ppt]
     - [Intra segment Direct/Indirect mode][intra_direct_indirect]
@@ -17,7 +17,7 @@ Series 1:
 
 
 
-[8086_instruction_set]: /resources/MICROPROCESSOR/instruction-set-of-8086.pptx
+[8086-instruction-set]: /resources/MICROPROCESSOR/instruction-set-of-8086.pptx
 [module_2]: /resources/MICROPROCESSOR/Module_2.pptx
 [macros_ppt]: /resources/MICROPROCESSOR/procedure_and_macros.ppt
 [intra_direct_indirect]: /resources/MICROPROCESSOR/intra_direct_indirect.jpeg
