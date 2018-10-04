@@ -2,7 +2,6 @@
 layout: post
 title:  "New Website !"
 date:   2018-10-04 22:00:00 +0530
-categories: jekyll update
 ---
 
 Welcome to the new website of 3rd year IT !
