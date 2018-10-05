@@ -41,7 +41,9 @@ permalink: /resources/
   * [Usecase Example][use-ex]
   * [Use case diagram for Banking][use-bank]
   * [Use case diagram for ATM machine][use-atm]
-# Series 1:
+<br/>
+
+# Series 2:
 * Class Diagrams
   * [Notes][soft-class-notes]
   * [Online Shopping example][soft-shop]
@@ -57,7 +59,7 @@ permalink: /resources/
 [Syllabus][cg-syll] <br/>
 [Previous Year question paper][cg-prev]
  
-[micro-prev]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
+[micro-prev]: /resources/MICROPROCESSOR/CS305._S5_Dec_17_Regular.pdf
 [mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
 [8086-instruction-set]: /resources/MICROPROCESSOR/series1/instruction-set-of-8086.pptx
 [module_2]: /resources/MICROPROCESSOR/series1/Module_2.pptx
