@@ -4,8 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 ## **Microprocessor and Microcontroller**
-# Exam
-* [Syllabus][mic-syll]
+[Syllabus][mic-syll]
 # Series 1:
 * [Instruction set of 8086][8086-instruction-set]
 * [Module 2][module_2]
@@ -17,8 +16,7 @@ permalink: /resources/
 
 
 ## **Operating Systems**
-# Exam
-* [Syllabus][os-syll]
+[Syllabus][os-syll]
 # Series 1:
 * [Process creation, Coordination and Synchronization][PCS]
 * [Operating System Structures][Section03-Structures]
@@ -28,8 +26,7 @@ permalink: /resources/
   
   
 ## **Software Architecture**
-# Exam
-* [Syllabus][sof-syll]
+[Syllabus][sof-syll]
 # Series 1:
 * [Process models][process-models]
 * [Software Design Principles][soft-design-principles]
@@ -43,14 +40,12 @@ permalink: /resources/
   * [Use case diagram for ATM machine][use-atm]
 
 ## **Theory of Computation**
-# Exam
-* [Syllabus][toc-syll]
+[Syllabus][toc-syll]
 # Series 1:
 * [TOC notes][t-note]
  
 ## **Computer Graphics**
-# Exam
-* [Syllabus][toc-syll]
+[Syllabus][toc-syll]
  
 [mic-syll]: /resources/MICROPROCESSOR/IT303_Theory_of_Computation.pdf
 [8086-instruction-set]: /resources/MICROPROCESSOR/series1/instruction-set-of-8086.pptx
