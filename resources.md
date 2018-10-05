@@ -42,7 +42,7 @@ permalink: /resources/
 # Series 1:
 * [TOC notes][t-note]
  
- ## **Computer Graphics**
+## **Computer Graphics**
 * [Syllabus][toc-syll]
  
 [mic-syll]: /resources/MICROPROCESSOR/IT303_Theory_of_Computation.pdf
