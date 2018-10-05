@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 ## **Microprocessor and Microcontroller**
-* [Syllabus][mic-syll]
+# [Syllabus][mic-syll]
 # Series 1:
   * [Instruction set of 8086][8086-instruction-set]
   * [Module 2][module_2]
