@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 ## **Microprocessor and Microcontroller**
-[Syllabus][mic-syll]
+[Syllabus][mic-syll] <br/>
 [Previous Year question paper][micro-prev]
 # Series 1:
 * [Instruction set of 8086][8086-instruction-set]
@@ -17,7 +17,7 @@ permalink: /resources/
 
 
 ## **Operating Systems**
-[Syllabus][os-syll]
+[Syllabus][os-syll] <br/>
 [Previous Year question paper][os-prev]
 # Series 1:
 * [Process creation, Coordination and Synchronization][PCS]
@@ -28,7 +28,7 @@ permalink: /resources/
   
   
 ## **Software Architecture**
-[Syllabus][sof-syll]
+[Syllabus][sof-syll] <br/>
 [Previous Year question paper][soft-prev]
 # Series 1:
 * [Process models][process-models]
@@ -48,13 +48,13 @@ permalink: /resources/
   * [Library Management System example][soft-lib]
 
 ## **Theory of Computation**
-[Syllabus][toc-syll]
+[Syllabus][toc-syll] <br/>
 [Previous Year question paper][soft-prev]
 # Series 1:
 * [TOC notes][t-note]
  
 ## **Computer Graphics**
-[Syllabus][cg-syll]
+[Syllabus][cg-syll] <br/>
 [Previous Year question paper][cg-prev]
  
 [micro-prev]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
@@ -75,7 +75,7 @@ permalink: /resources/
 [operating_systems_overview]: /resources/OS/series1/operating_systems_overview.ppt
 
 [soft-prev]: /resources/SOFTWARE/IT_301.pdf
-[soft-class]: /resources/SOFTWARE/series1/class_diagrams.docx
+[soft-class-notes]: /resources/SOFTWARE/series1/class_diagrams.docx
 [soft-shop]: /resources/SOFTWARE/series1/class-example-online-shopping-domain.png
 [soft-lib]: /resources/SOFTWARE/series1/library-management-system-7-638.jpg
 [sof-syll]: /resources/SOFTWARE/IT301_Software_Architecture_and_Design_Patterns.pdf
