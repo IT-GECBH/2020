@@ -5,6 +5,7 @@ permalink: /resources/
 ---
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll]
+[Previous Year question paper][micro-prev]
 # Series 1:
 * [Instruction set of 8086][8086-instruction-set]
 * [Module 2][module_2]
@@ -17,6 +18,7 @@ permalink: /resources/
 
 ## **Operating Systems**
 [Syllabus][os-syll]
+[Previous Year question paper][os-prev]
 # Series 1:
 * [Process creation, Coordination and Synchronization][PCS]
 * [Operating System Structures][Section03-Structures]
@@ -27,6 +29,7 @@ permalink: /resources/
   
 ## **Software Architecture**
 [Syllabus][sof-syll]
+[Previous Year question paper][soft-prev]
 # Series 1:
 * [Process models][process-models]
 * [Software Design Principles][soft-design-principles]
@@ -46,12 +49,15 @@ permalink: /resources/
 
 ## **Theory of Computation**
 [Syllabus][toc-syll]
+[Previous Year question paper][soft-prev]
 # Series 1:
 * [TOC notes][t-note]
  
 ## **Computer Graphics**
-[Syllabus][toc-syll]
+[Syllabus][cg-syll]
+[Previous Year question paper][cg-prev]
  
+[micro-prev]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
 [mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
 [8086-instruction-set]: /resources/MICROPROCESSOR/series1/instruction-set-of-8086.pptx
 [module_2]: /resources/MICROPROCESSOR/series1/Module_2.pptx
@@ -60,6 +66,7 @@ permalink: /resources/
 [inter_direct_indirect]:/resources/MICROPROCESSOR/series1/inter_direct_indirect.jpeg
 [rel_index_add]:/resources/MICROPROCESSOR/series1/relative_based_index_addressing.jpeg
 
+[os-prev]: /resources/OS/IT305-A.pdf
 [os-syll]: /resources/OS/IT305_Operating_systems.pdf
 [PCS]: /resources/OS/series1/processcreation_coorporation_synchronization.ppt
 [Section03-Structures]: /resources/OS/series1/Section03-Structures.ppt
@@ -67,6 +74,7 @@ permalink: /resources/
 [Section05-Scheduling 4clas final]: /resources/OS/series1/Section05-Scheduling_4clas_final.ppt
 [operating_systems_overview]: /resources/OS/series1/operating_systems_overview.ppt
 
+[soft-prev]: /resources/SOFTWARE/IT_301.pdf
 [soft-class]: /resources/SOFTWARE/series1/class_diagrams.docx
 [soft-shop]: /resources/SOFTWARE/series1/class-example-online-shopping-domain.png
 [soft-lib]: /resources/SOFTWARE/series1/library-management-system-7-638.jpg
@@ -81,5 +89,9 @@ permalink: /resources/
 [use-bank]: /resources/SOFTWARE/series1/banking_usecase.jpg
 [use-atm]: /resources/SOFTWARE/series1/atm_usecase.png
 
+[toc-prev]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
 [toc-syll]: /resources/TOC/IT303_Theory_of_Computation.pdf
 [t-note]: /resources/TOC/series1/TOC_notes.doc
+
+[cg-syll]: /resources/GRAPHICS/IT367_ComputerGraphics_&_Multimedia.pdf
+[cg-prev]: /resources/GRAPHICS/IT_367_Computer_Graphics_Semester-5_Dec-17.pdf
