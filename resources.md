@@ -4,6 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 ## **Microprocessor and Microcontroller**
+# Exam
 * [Syllabus][mic-syll]
 # Series 1:
 * [Instruction set of 8086][8086-instruction-set]
@@ -13,7 +14,10 @@ permalink: /resources/
 * [Inter segment Direct/Indirect mode][inter_direct_indirect]
 * [Relative based index addressing][rel_index_add]
 
+
+
 ## **Operating Systems**
+# Exam
 * [Syllabus][os-syll]
 # Series 1:
 * [Process creation, Coordination and Synchronization][PCS]
@@ -24,6 +28,7 @@ permalink: /resources/
   
   
 ## **Software Architecture**
+# Exam
 * [Syllabus][sof-syll]
 # Series 1:
 * [Process models][process-models]
@@ -38,11 +43,13 @@ permalink: /resources/
   * [Use case diagram for ATM machine][use-atm]
 
 ## **Theory of Computation**
+# Exam
 * [Syllabus][toc-syll]
 # Series 1:
 * [TOC notes][t-note]
  
 ## **Computer Graphics**
+# Exam
 * [Syllabus][toc-syll]
  
 [mic-syll]: /resources/MICROPROCESSOR/IT303_Theory_of_Computation.pdf
