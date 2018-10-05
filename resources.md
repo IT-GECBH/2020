@@ -47,7 +47,7 @@ permalink: /resources/
 ## **Computer Graphics**
 [Syllabus][toc-syll]
  
-[mic-syll]: /resources/MICROPROCESSOR/IT303_Theory_of_Computation.pdf
+[mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
 [8086-instruction-set]: /resources/MICROPROCESSOR/series1/instruction-set-of-8086.pptx
 [module_2]: /resources/MICROPROCESSOR/series1/Module_2.pptx
 [macros_ppt]: /resources/MICROPROCESSOR/series1/procedure_and_macros.ppt
