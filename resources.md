@@ -4,43 +4,43 @@ title: Resources
 permalink: /resources/
 ---
 ## **Microprocessor and Microcontroller**
-# [Syllabus][mic-syll]
+* [Syllabus][mic-syll]
 # Series 1:
-  * [Instruction set of 8086][8086-instruction-set]
-  * [Module 2][module_2]
-  * [Procedure and macros][macros_ppt]
-  * [Intra segment Direct/Indirect mode][intra_direct_indirect]
-  * [Inter segment Direct/Indirect mode][inter_direct_indirect]
-  * [Relative based index addressing][rel_index_add]
+* [Instruction set of 8086][8086-instruction-set]
+* [Module 2][module_2]
+* [Procedure and macros][macros_ppt]
+* [Intra segment Direct/Indirect mode][intra_direct_indirect]
+* [Inter segment Direct/Indirect mode][inter_direct_indirect]
+* [Relative based index addressing][rel_index_add]
 
 ## **Operating Systems**
 * [Syllabus][os-syll]
 # Series 1:
-  * [Process creation, Coordination and Synchronization][PCS]
-  * [Operating System Structures][Section03-Structures]
-  * [Processes][Section04-Processes4 class]
-  * [Scheduling][Section05-Scheduling 4clas final]
-  * [Operating systems overview][operating_systems_overview]
+* [Process creation, Coordination and Synchronization][PCS]
+* [Operating System Structures][Section03-Structures]
+* [Processes][Section04-Processes4 class]
+* [Scheduling][Section05-Scheduling 4clas final]
+* [Operating systems overview][operating_systems_overview]
   
   
 ## **Software Architecture**
 * [Syllabus][sof-syll]
 # Series 1:
- * [Process models][process-models]
- * [Software Design Principles][soft-design-principles]
- * [Chapter 1: Introduction to Software Engg][chap-1]
- * [Chapter 3: Software Process Model][chap-3]
- * [Goals of software design][goal-soft]
- * UML
-   * [Types of UML Diagrams][types-UML]
-   * [Usecase Example][use-ex]
-   * [Use case diagram for Banking][use-bank]
-   * [Use case diagram for ATM machine][use-atm]
+* [Process models][process-models]
+* [Software Design Principles][soft-design-principles]
+* [Chapter 1: Introduction to Software Engg][chap-1]
+* [Chapter 3: Software Process Model][chap-3]
+* [Goals of software design][goal-soft]
+* UML
+  * [Types of UML Diagrams][types-UML]
+  * [Usecase Example][use-ex]
+  * [Use case diagram for Banking][use-bank]
+  * [Use case diagram for ATM machine][use-atm]
 
 ## **Theory of Computation**
 * [Syllabus][toc-syll]
 # Series 1:
- * [TOC notes][t-note]
+* [TOC notes][t-note]
  
  ## **Computer Graphics**
 * [Syllabus][toc-syll]
