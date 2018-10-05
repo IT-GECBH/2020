@@ -38,6 +38,11 @@ permalink: /resources/
   * [Usecase Example][use-ex]
   * [Use case diagram for Banking][use-bank]
   * [Use case diagram for ATM machine][use-atm]
+# Series 1:
+* Class Diagrams
+  * [Notes][soft-class-notes]
+  * [Online Shopping example][soft-shop]
+  * [Library Management System example][soft-lib]
 
 ## **Theory of Computation**
 [Syllabus][toc-syll]
@@ -62,6 +67,9 @@ permalink: /resources/
 [Section05-Scheduling 4clas final]: /resources/OS/series1/Section05-Scheduling_4clas_final.ppt
 [operating_systems_overview]: /resources/OS/series1/operating_systems_overview.ppt
 
+[soft-class]: /resources/SOFTWARE/series1/class_diagrams.docx
+[soft-shop]: /resources/SOFTWARE/series1/class-example-online-shopping-domain.png
+[soft-lib]: /resources/SOFTWARE/series1/library-management-system-7-638.jpg
 [sof-syll]: /resources/SOFTWARE/IT301_Software_Architecture_and_Design_Patterns.pdf
 [process-models]: /resources/SOFTWARE/series1/Process_models.pptx
 [soft-design-principles]: /resources/SOFTWARE/series1/Software_design_principles_new.pptx
