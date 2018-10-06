@@ -4,8 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 ## **Software Architecture**
-*( Credits: 4 )* <br/>
-[Syllabus][sof-syll]   <br/>
+[Syllabus][sof-syll] *( Credits: 4 )* <br/>
 [Previous Year Question Paper][soft-prev]
 # Series 1:
 * [Process models][process-models]
@@ -27,8 +26,7 @@ permalink: /resources/
   * [Library Management System example][soft-lib]
 
 ## **Microprocessor and Microcontroller**
-*( Credits: 3 )* <br/>
-[Syllabus][mic-syll]  <br/>
+[Syllabus][mic-syll] *( Credits: 3 )*   <br/>
 [Previous Year Question Paper][micro-prev]
 # Series 1:
 * [Instruction set of 8086][8086-instruction-set]
@@ -39,8 +37,7 @@ permalink: /resources/
 * [Relative based index addressing][rel_index_add]
 
 ## **Operating Systems**
-*( Credits: 3 )* <br/>
-[Syllabus][os-syll] <br/>
+[Syllabus][os-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][os-prev]
 # Series 1:
 * [Process creation, Coordination and Synchronization][PCS]
@@ -50,8 +47,7 @@ permalink: /resources/
 * [Operating systems overview][operating_systems_overview]
 
 ## **Theory of Computation**
-*( Credits: 3 )* <br/>
-[Syllabus][toc-syll]  <br/>
+[Syllabus][toc-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][soft-prev]
 # Series 1:
 * [TOC notes][t-note]
@@ -61,13 +57,11 @@ permalink: /resources/
 [Previous Year Question Paper]( /resources/NETWORKS/IT_307Semester-5.pdf )
 
 ## **Computer Graphics**
-*( Credits: 3 )* <br/>
-[Syllabus][cg-syll]  <br/>
+[Syllabus][cg-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][cg-prev]
 
 ## **UNIX**
-*( Credits: 3 )*
-[Syllabus]( /resources/UNIX/IT363_Unix_Shell_Programming.pdf )<br/>
+[Syllabus]( /resources/UNIX/IT363_Unix_Shell_Programming.pdf ) *( Credits: 3 )*  <br/>
 [Previous Year Question Paper]( /resources/UNIX/Unix_Shell_Programming.pdf )
  
 [micro-prev]: /resources/MICROPROCESSOR/CS305._S5_Dec_17_Regular.pdf
