@@ -51,6 +51,7 @@ permalink: /resources/
 [Previous Year Question Paper][soft-prev]
 # Series 1:
 * [TOC notes][t-note]
+* [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
  
 ## **Computer Networks**
 [Syllabus]( /resources/NETWORKS/IT307_Computer_Networks.pdf ) *( Credits: 3 )* <br/>
@@ -63,6 +64,9 @@ permalink: /resources/
 ## **UNIX**
 [Syllabus]( /resources/UNIX/IT363_Unix_Shell_Programming.pdf ) *( Credits: 3 )*  <br/>
 [Previous Year Question Paper]( /resources/UNIX/Unix_Shell_Programming.pdf )
+# Websites:
+* [Tutorials Point](https://www.tutorialspoint.com/unix/)
+* [Writing Unix Scripts](https://web.calpoly.edu/~rasplund/script.html)
  
 [micro-prev]: /resources/MICROPROCESSOR/CS305._S5_Dec_17_Regular.pdf
 [mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
