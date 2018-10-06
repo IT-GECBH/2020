@@ -3,33 +3,9 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-## **Microprocessor and Microcontroller**
-[Syllabus][mic-syll] <br/>
-[Previous Year question paper][micro-prev]
-# Series 1:
-* [Instruction set of 8086][8086-instruction-set]
-* [Module 2][module_2]
-* [Procedure and macros][macros_ppt]
-* [Intra segment Direct/Indirect mode][intra_direct_indirect]
-* [Inter segment Direct/Indirect mode][inter_direct_indirect]
-* [Relative based index addressing][rel_index_add]
-
-
-
-## **Operating Systems**
-[Syllabus][os-syll] <br/>
-[Previous Year question paper][os-prev]
-# Series 1:
-* [Process creation, Coordination and Synchronization][PCS]
-* [Operating System Structures][Section03-Structures]
-* [Processes][Section04-Processes4 class]
-* [Scheduling][Section05-Scheduling 4clas final]
-* [Operating systems overview][operating_systems_overview]
-  
-  
 ## **Software Architecture**
-[Syllabus][sof-syll] <br/>
-[Previous Year question paper][soft-prev]
+[Syllabus][sof-syll] [ Credits: 4 ] <br/>
+[Previous Year Question Paper][soft-prev]
 # Series 1:
 * [Process models][process-models]
 * [Software Design Principles][soft-design-principles]
@@ -49,15 +25,44 @@ permalink: /resources/
   * [Online Shopping example][soft-shop]
   * [Library Management System example][soft-lib]
 
+## **Microprocessor and Microcontroller**
+[Syllabus][mic-syll] [ Credits: 3] <br/>
+[Previous Year Question Paper][micro-prev]
+# Series 1:
+* [Instruction set of 8086][8086-instruction-set]
+* [Module 2][module_2]
+* [Procedure and macros][macros_ppt]
+* [Intra segment Direct/Indirect mode][intra_direct_indirect]
+* [Inter segment Direct/Indirect mode][inter_direct_indirect]
+* [Relative based index addressing][rel_index_add]
+
+## **Operating Systems**
+[Syllabus][os-syll] [ Credits: 3] <br/>
+[Previous Year Question Paper][os-prev]
+# Series 1:
+* [Process creation, Coordination and Synchronization][PCS]
+* [Operating System Structures][Section03-Structures]
+* [Processes][Section04-Processes4 class]
+* [Scheduling][Section05-Scheduling 4clas final]
+* [Operating systems overview][operating_systems_overview]
+
 ## **Theory of Computation**
-[Syllabus][toc-syll] <br/>
-[Previous Year question paper][soft-prev]
+[Syllabus][toc-syll] [ Credits: 3 ] <br/>
+[Previous Year Question Paper][soft-prev]
 # Series 1:
 * [TOC notes][t-note]
  
+## **Computer Networks**
+[Syllabus]( /resources/NETWORKS/IT307_Computer_Networks.pdf ) [ Credits: 3] <br/>
+[Previous Year Question Paper]( /resources/NETWORKS/IT_307Semester-5.pdf )
+
 ## **Computer Graphics**
-[Syllabus][cg-syll] <br/>
-[Previous Year question paper][cg-prev]
+[Syllabus][cg-syll] [ Credits: 3 ] <br/>
+[Previous Year Question Paper][cg-prev]
+
+## **UNIX**
+[Syllabus]( /resources/UNIX/IT363_Unix_Shell_Programming.pdf ) [ Credits: 3 ] <br/>
+[Previous Year Question Paper]( /resources/UNIX/Unix_Shell_Programming.pdf )
  
 [micro-prev]: /resources/MICROPROCESSOR/CS305._S5_Dec_17_Regular.pdf
 [mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
