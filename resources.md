@@ -86,9 +86,9 @@ permalink: /resources/
 [operating_systems_overview]: /resources/OS/series1/operating_systems_overview.ppt
 
 [soft-prev]: /resources/SOFTWARE/IT_301.pdf
-[soft-class-notes]: /resources/SOFTWARE/series1/class_diagrams.docx
-[soft-shop]: /resources/SOFTWARE/series1/class-example-online-shopping-domain.png
-[soft-lib]: /resources/SOFTWARE/series1/library-management-system-7-638.jpg
+[soft-class-notes]: /resources/SOFTWARE/series2/class_diagrams.docx
+[soft-shop]: /resources/SOFTWARE/series2/class-example-online-shopping-domain.png
+[soft-lib]: /resources/SOFTWARE/series2/library-management-system-7-638.jpg
 [sof-syll]: /resources/SOFTWARE/IT301_Software_Architecture_and_Design_Patterns.pdf
 [process-models]: /resources/SOFTWARE/series1/Process_models.pptx
 [soft-design-principles]: /resources/SOFTWARE/series1/Software_design_principles_new.pptx
