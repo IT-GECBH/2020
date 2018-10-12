@@ -51,11 +51,14 @@ permalink: /resources/
 [Previous Year Question Paper][soft-prev]
 # Series 1:
 * [TOC notes][t-note]
+# Websites:
 * [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
  
 ## **Computer Networks**
 [Syllabus]( /resources/NETWORKS/IT307_Computer_Networks.pdf ) *( Credits: 3 )* <br/>
 [Previous Year Question Paper]( /resources/NETWORKS/IT_307Semester-5.pdf )
+
+* Computer Networks by Andrew S. Tanenbaum 
 
 ## **Computer Graphics**
 [Syllabus][cg-syll] *( Credits: 3 )*  <br/>
