@@ -50,7 +50,8 @@ permalink: /resources/
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][soft-prev]
 # Series 1:
-* [TOC notes][t-note] <br/>
+* [TOC notes][t-note] 
+<br/>
 # Websites:
 * [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
  
