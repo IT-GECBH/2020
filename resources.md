@@ -52,6 +52,7 @@ permalink: /resources/
 # Series 1:
 * [TOC notes][t-note] 
 <br/>
+
 # Websites:
 * [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
  
