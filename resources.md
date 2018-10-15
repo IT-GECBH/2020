@@ -112,8 +112,8 @@ permalink: /resources/
 [use-bank]: /resources/SOFTWARE/series1/banking_usecase.jpg
 [use-atm]: /resources/SOFTWARE/series1/atm_usecase.png
 [activity-diagram]: /resources/SOFTWARE/series2/activity_diagrams.ppt
-[act-shop-img1]: /resources/SOFTWARE/series/act-diag-img1.jpeg
-[act-shop-img2]: /resources/SOFTWARE/series/act-diag-img2.jpeg
+[act-shop-img1]: /resources/SOFTWARE/series2/act-diag-img1.jpeg
+[act-shop-img2]: /resources/SOFTWARE/series2/act-diag-img2.jpeg
 
 [toc-prev]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
 [toc-syll]: /resources/TOC/IT303_Theory_of_Computation.pdf
