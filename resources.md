@@ -18,8 +18,8 @@ permalink: /resources/
   * [Use case diagram for Banking][use-bank]
   * [Use case diagram for ATM machine][use-atm]
 * Activity diagram
-  * Notes[activity-diagram]
-  * Online shopping system [act-shop-img1]/[act-shop-img2]
+  * [Notes][activity-diagram]
+  * Online shopping system [img1][act-shop-img1] / [img2][act-shop-img2]
 <br/>
 
 # Series 2:
