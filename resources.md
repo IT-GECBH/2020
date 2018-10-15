@@ -79,6 +79,7 @@ permalink: /resources/
 * [GNU plot](https://people.duke.edu/~hpgavin/gnuplot.html)
 * [GCC and Make](http://www.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 * [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
+* [Unix Comparisions](http://tldp.org/LDP/abs/html/comparison-ops.html)
  
 [micro-prev]: /resources/MICROPROCESSOR/CS305._S5_Dec_17_Regular.pdf
 [mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
