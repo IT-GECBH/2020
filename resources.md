@@ -17,6 +17,9 @@ permalink: /resources/
   * [Usecase Example][use-ex]
   * [Use case diagram for Banking][use-bank]
   * [Use case diagram for ATM machine][use-atm]
+* Activity diagram
+  * Notes[activity-diagram]
+  * Online shopping system [act-shop-img1]/[act-shop-img2]
 <br/>
 
 # Series 2:
@@ -108,6 +111,9 @@ permalink: /resources/
 [use-ex]: /resources/SOFTWARE/series1/usecase_example.docx
 [use-bank]: /resources/SOFTWARE/series1/banking_usecase.jpg
 [use-atm]: /resources/SOFTWARE/series1/atm_usecase.png
+[activity-diagram]: /resources/SOFTWARE/series2/activity_diagrams.ppt
+[act-shop-img1]: /resources/SOFTWARE/series/act-diag-img1.jpeg
+[act-shop-img2]: /resources/SOFTWARE/series/act-diag-img2.jpeg
 
 [toc-prev]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
 [toc-syll]: /resources/TOC/IT303_Theory_of_Computation.pdf
