@@ -17,9 +17,6 @@ permalink: /resources/
   * [Usecase Example][use-ex]
   * [Use case diagram for Banking][use-bank]
   * [Use case diagram for ATM machine][use-atm]
-* Activity diagram
-  * [Notes][activity-diagram]
-  * Online shopping system [img1][act-shop-img1] / [img2][act-shop-img2]
 <br/>
 
 # Series 2:
@@ -27,6 +24,9 @@ permalink: /resources/
   * [Notes][soft-class-notes]
   * [Online Shopping example][soft-shop]
   * [Library Management System example][soft-lib]
+* Activity diagram
+  * [Notes][activity-diagram]
+  * Online shopping system [img1][act-shop-img1] / [img2][act-shop-img2]
 
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
