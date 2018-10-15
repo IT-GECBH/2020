@@ -73,6 +73,9 @@ permalink: /resources/
 * [Tutorials Point](https://www.tutorialspoint.com/unix/)
 * [Writing Unix Scripts](https://web.calpoly.edu/~rasplund/script.html)
 * [UNIX Interview Questions](https://linoxide.com/linux-shell-script/shell-scripting-interview-questions-answers/)
+* [GNU plot](https://people.duke.edu/~hpgavin/gnuplot.html)
+* [GCC and Make](http://www.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
+* [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
  
 [micro-prev]: /resources/MICROPROCESSOR/CS305._S5_Dec_17_Regular.pdf
 [mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
