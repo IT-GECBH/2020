@@ -38,7 +38,12 @@ permalink: /resources/
 * [Intra segment Direct/Indirect mode][intra_direct_indirect]
 * [Inter segment Direct/Indirect mode][inter_direct_indirect]
 * [Relative based index addressing][rel_index_add]
+<br/>
 
+# Series 2:
+* [Microcontroller Intro][microintro]
+* [8051 architecture][8051arch]
+* [8051 addressing modes][8051add]
 ## **Operating Systems**
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][os-prev]
@@ -89,6 +94,9 @@ permalink: /resources/
 [intra_direct_indirect]: /resources/MICROPROCESSOR/series1/intra_direct_indirect.jpeg
 [inter_direct_indirect]:/resources/MICROPROCESSOR/series1/inter_direct_indirect.jpeg
 [rel_index_add]:/resources/MICROPROCESSOR/series1/relative_based_index_addressing.jpeg
+[microintro]:/resources/MICROPROCESSOR/series2/microcontroller_intro.pptx
+[8051arch]:/resources/MICROPROCESSOR/series2/8051arch.ppt
+[8051add]:/resources/MICROPROCESSOR/series2/addressingmodes8051.ppt
 
 [os-prev]: /resources/OS/IT305-A.pdf
 [os-syll]: /resources/OS/IT305_Operating_systems.pdf
