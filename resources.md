@@ -92,11 +92,11 @@ permalink: /resources/
 [module_2]: /resources/MICROPROCESSOR/series1/Module_2.pptx
 [macros_ppt]: /resources/MICROPROCESSOR/series1/procedure_and_macros.ppt
 [intra_direct_indirect]: /resources/MICROPROCESSOR/series1/intra_direct_indirect.jpeg
-[inter_direct_indirect]:/resources/MICROPROCESSOR/series1/inter_direct_indirect.jpeg
-[rel_index_add]:/resources/MICROPROCESSOR/series1/relative_based_index_addressing.jpeg
-[microintro]:/resources/MICROPROCESSOR/series2/microcontroller_intro.pptx
-[8051arch]:/resources/MICROPROCESSOR/series2/8051arch.ppt
-[8051add]:/resources/MICROPROCESSOR/series2/addressingmodes8051.ppt
+[inter_direct_indirect]: /resources/MICROPROCESSOR/series1/inter_direct_indirect.jpeg
+[rel_index_add]: /resources/MICROPROCESSOR/series1/relative_based_index_addressing.jpeg
+[microintro]: /resources/MICROPROCESSOR/series2/microcontroller_intro.pptx
+[8051arch]: /resources/MICROPROCESSOR/series2/8051arch.ppt
+[8051add]: /resources/MICROPROCESSOR/series2/addressingmodes8051.ppt
 
 [os-prev]: /resources/OS/IT305-A.pdf
 [os-syll]: /resources/OS/IT305_Operating_systems.pdf
