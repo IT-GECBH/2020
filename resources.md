@@ -85,6 +85,13 @@ permalink: /resources/
 * [GCC and Make](http://www.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 * [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
 * [Unix Comparisions](http://tldp.org/LDP/abs/html/comparison-ops.html)
+
+
+## **Database Lab**
+* Postgres notes [PDF][dblab-post-pdf] / [SQL][dblab-post-sql]
+* Questions [PDF][dblab-ques-pdf] / [SQL][dblab-ques-sql]
+ # Websites:
+ * [Tutorials Point](https://www.tutorialspoint.com/postgresql/)
  
 [micro-prev]: /resources/MICROPROCESSOR/CS305._S5_Dec_17_Regular.pdf
 [mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
@@ -130,3 +137,8 @@ permalink: /resources/
 
 [cg-syll]: /resources/GRAPHICS/IT367_ComputerGraphics_&_Multimedia.pdf
 [cg-prev]: /resources/GRAPHICS/IT_367_Computer_Graphics_Semester-5_Dec-17.pdf
+
+[dblab-post-pdf]: /resources/DB-LAB/dblab.pdf
+[dblab-post-sql]: /resources/DB-LAB/dblab.sql
+[dblab-ques-pdf]: /resources/DB-LAB/DBLabQns3,4,5,6.pdf
+[dblab-ques-sql]: /resources/DB-LAB/DBLabQns3,4,5,6.sql
