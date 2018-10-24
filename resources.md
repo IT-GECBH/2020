@@ -38,6 +38,7 @@ permalink: /resources/
 * [Intra segment Direct/Indirect mode][intra_direct_indirect]
 * [Inter segment Direct/Indirect mode][inter_direct_indirect]
 * [Relative based index addressing][rel_index_add]
+* [Jump instructions(JA-JZ)](http://www.penguin.cz/~literakl/intel/j.html)
 <br/>
 
 # Series 2:
