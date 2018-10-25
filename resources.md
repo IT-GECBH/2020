@@ -27,7 +27,7 @@ permalink: /resources/
 * Activity diagram
   * [Notes][activity-diagram]
   * Online shopping system [img1][act-shop-img1] / [img2][act-shop-img2]
-
+* [State Diagram][sadp-state]
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
 [Previous Year Question Paper][micro-prev]
@@ -131,6 +131,7 @@ permalink: /resources/
 [activity-diagram]: /resources/SOFTWARE/series2/activity_diagrams.ppt
 [act-shop-img1]: /resources/SOFTWARE/series2/act-diag-img1.jpeg
 [act-shop-img2]: /resources/SOFTWARE/series2/act-diag-img2.jpeg
+[sadp-state]: /resources/SOFTWARE/series2/6-States,_Actions,_&_Activities.pdf
 
 [toc-prev]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
 [toc-syll]: /resources/TOC/IT303_Theory_of_Computation.pdf
