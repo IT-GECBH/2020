@@ -92,6 +92,7 @@ permalink: /resources/
 * Postgres notes [PDF][dblab-post-pdf] / [SQL][dblab-post-sql]
 * Questions [PDF][dblab-ques-pdf] / [SQL][dblab-ques-sql]
 * Functions [PDF][dblab-func-pdf] / [SQL][dblab-func-sql]
+<br/>
 # Websites:
  * [Tutorials Point](https://www.tutorialspoint.com/postgresql/)
  
