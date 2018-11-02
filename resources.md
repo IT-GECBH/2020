@@ -66,8 +66,8 @@ permalink: /resources/
 * [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
  
 ## **Computer Networks**
-[Syllabus]( /resources/NETWORKS/IT307_Computer_Networks.pdf ) *( Credits: 3 )* <br/>
-[Previous Year Question Paper]( /resources/NETWORKS/IT_307Semester-5.pdf )
+[Syllabus][net-syll] *( Credits: 3 )* <br/>
+[Previous Year Question Paper][net-prev]
 
 * Computer Networks by Andrew S. Tanenbaum 
 
@@ -76,8 +76,8 @@ permalink: /resources/
 [Previous Year Question Paper][cg-prev]
 
 ## **UNIX**
-[Syllabus]( /resources/UNIX/IT363_Unix_Shell_Programming.pdf ) *( Credits: 3 )*  <br/>
-[Previous Year Question Paper]( /resources/UNIX/Unix_Shell_Programming.pdf )
+[Syllabus][unix-syll] *( Credits: 3 )*  <br/>
+[Previous Year Question Paper][unix-prev]
 # Websites:
 * [Tutorials Point](https://www.tutorialspoint.com/unix/)
 * [Writing Unix Scripts](https://web.calpoly.edu/~rasplund/script.html)
@@ -136,6 +136,9 @@ permalink: /resources/
 [act-shop-img2]: /resources/SOFTWARE/series2/act-diag-img2.jpeg
 [sadp-state]: /resources/SOFTWARE/series2/6-States,_Actions,_&_Activities.pdf
 
+[net-syll]:  /resources/NETWORKS/IT307_Computer_Networks.pdf 
+[net-prev]: /resources/NETWORKS/IT_307Semester-5.pdf
+
 [toc-prev]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
 [toc-syll]: /resources/TOC/IT303_Theory_of_Computation.pdf
 [t-note]: /resources/TOC/series1/TOC_notes.doc
@@ -149,3 +152,6 @@ permalink: /resources/
 [dblab-ques-sql]: /resources/DB-LAB/DBLabQns3,4,5,6.sql
 [dblab-func-pdf]: /resources/DB-LAB/functions.pdf
 [dblab-func-sql]: /resources/DB-LAB/functions.sql
+
+[unix-syll]: /resources/UNIX/IT363_Unix_Shell_Programming.pdf
+[unix-prev]: /resources/UNIX/Unix_Shell_Programming.pdf
