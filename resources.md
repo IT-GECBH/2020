@@ -57,6 +57,13 @@ permalink: /resources/
 * [Processes][Section04-Processes4 class]
 * [Scheduling][Section05-Scheduling 4clas final]
 * [Operating systems overview][operating_systems_overview]
+<br/>
+
+# Series 2:
+* [Classic problems of synchronisation][os-classic-sync]
+* [Critical reagion and solutions][os-critic]
+* [Deadlocks][os-deadlock]
+* [IO Systems][os-io-sys]
 
 ## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
@@ -120,6 +127,10 @@ permalink: /resources/
 [Section04-Processes4 class]: /resources/OS/series1/Section04-Processes4_class.ppt
 [Section05-Scheduling 4clas final]: /resources/OS/series1/Section05-Scheduling_4clas_final.ppt
 [operating_systems_overview]: /resources/OS/series1/operating_systems_overview.ppt
+[os-classic-sync]: /resources/OS/series2/Classic_problems_of_synchronisation.ppt
+[os-critic]: /resources/OS/series2/Critical_region_and_solutions-Sync1.ppt
+[os-deadlock]: /resources/OS/series2/Section07-Deadlocks.ppt
+[os-io-sys]: /resources/OS/series2/Section12-IO_Systems.ppt
 
 [soft-prev]: /resources/SOFTWARE/IT_301.pdf
 [soft-class-notes]: /resources/SOFTWARE/series2/class_diagrams.docx
