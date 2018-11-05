@@ -28,6 +28,8 @@ permalink: /resources/
   * [Notes][activity-diagram]
   * Online shopping system [img1][act-shop-img1] / [img2][act-shop-img2]
 * [State Diagram][sadp-state]
+* [Software Architecture Styles][soft-arch-styles]
+* [Model view controller architecture][soft-mvc]
 
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
@@ -47,8 +49,7 @@ permalink: /resources/
 * [8051 architecture][8051arch]
 * [8051 addressing modes][8051add]
 * [8051 notes][8051notes]
-* [Software Architecture Styles][soft-arch-styles]
-* [Model view controller architecture][soft-mvc]
+
 ## **Operating Systems**
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][os-prev]
