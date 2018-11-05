@@ -152,7 +152,7 @@ permalink: /resources/
 [act-shop-img1]: /resources/SOFTWARE/series2/act-diag-img1.jpeg
 [act-shop-img2]: /resources/SOFTWARE/series2/act-diag-img2.jpeg
 [sadp-state]: /resources/SOFTWARE/series2/6-States,_Actions,_&_Activities.pdf
-[soft-arch-styles]: /resources/SOFTWARE/series2/sw_arch styles_new.pptx
+[soft-arch-styles]: /resources/SOFTWARE/series2/sw_arch_styles_new.pptx
 [soft-mvc]: /resources/SOFTWARE/series2/MVC.ppt
 
 [net-syll]: /resources/NETWORKS/IT307_Computer_Networks.pdf 
