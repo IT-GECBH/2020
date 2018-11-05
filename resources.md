@@ -65,7 +65,9 @@ permalink: /resources/
 * [Classic problems of synchronisation][os-classic-sync]
 * [Critical reagion and solutions][os-critic]
 * [Deadlocks][os-deadlock]
+* [Deadlocks more][os-deadlocks-more]
 * [IO Systems][os-io-sys]
+* [Disk Scheduling Algorithms][os-disk]
 
 ## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
@@ -133,6 +135,8 @@ permalink: /resources/
 [os-critic]: /resources/OS/series2/Critical_region_and_solutions-Sync1.ppt
 [os-deadlock]: /resources/OS/series2/Section07-Deadlocks.ppt
 [os-io-sys]: /resources/OS/series2/Section12-IO_Systems.ppt
+[os-disk]: /resources/OS/series2/Disk_Scheduling_Algorithms-GeeksforGeeks.pdf
+[os-deadlocks-more]: /resources/OS/series2/Section07-Deadlocks-more.ppt
 
 [soft-prev]: /resources/SOFTWARE/IT_301.pdf
 [soft-class-notes]: /resources/SOFTWARE/series2/class_diagrams.docx
