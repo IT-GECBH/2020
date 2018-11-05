@@ -47,7 +47,8 @@ permalink: /resources/
 * [8051 architecture][8051arch]
 * [8051 addressing modes][8051add]
 * [8051 notes][8051notes]
-
+* [Software Architecture Styles][soft-arch-styles]
+* [Model view controller architecture][soft-mvc]
 ## **Operating Systems**
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][os-prev]
@@ -150,6 +151,8 @@ permalink: /resources/
 [act-shop-img1]: /resources/SOFTWARE/series2/act-diag-img1.jpeg
 [act-shop-img2]: /resources/SOFTWARE/series2/act-diag-img2.jpeg
 [sadp-state]: /resources/SOFTWARE/series2/6-States,_Actions,_&_Activities.pdf
+[soft-arch-styles]: /resources/SOFTWARE/series2/sw_arch styles_new.pptx
+[soft-mvc]: /resources/SOFTWARE/series2/MVC.ppt
 
 [net-syll]: /resources/NETWORKS/IT307_Computer_Networks.pdf 
 [net-prev]: /resources/NETWORKS/IT_307Semester-5.pdf
