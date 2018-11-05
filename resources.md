@@ -28,6 +28,8 @@ permalink: /resources/
   * [Notes][activity-diagram]
   * Online shopping system [img1][act-shop-img1] / [img2][act-shop-img2]
 * [State Diagram][sadp-state]
+* [Software Architecture Styles][soft-arch-styles]
+* [Model view controller architecture][soft-mvc]
 
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
@@ -150,6 +152,8 @@ permalink: /resources/
 [act-shop-img1]: /resources/SOFTWARE/series2/act-diag-img1.jpeg
 [act-shop-img2]: /resources/SOFTWARE/series2/act-diag-img2.jpeg
 [sadp-state]: /resources/SOFTWARE/series2/6-States,_Actions,_&_Activities.pdf
+[soft-arch-styles]: /resources/SOFTWARE/series2/sw_arch styles_new.pptx
+[soft-mvc]: /resources/SOFTWARE/series2/MVC.ppt
 
 [net-syll]: /resources/NETWORKS/IT307_Computer_Networks.pdf 
 [net-prev]: /resources/NETWORKS/IT_307Semester-5.pdf
