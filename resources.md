@@ -29,10 +29,11 @@ permalink: /resources/
   * [Notes2][activity-diagram2]
   * Online shopping system [img1][act-shop-img1] / [img2][act-shop-img2]
 * [State Diagram][sadp-state]
-* [Software Architecture Styles][soft-arch-styles]
-* [Model view controller architecture][soft-mvc]
 * [Interaction Diagrams][sadp-interaction]
 * [Deployment Diagram][sadp-deploy]
+* [Software Architecture Styles][soft-arch-styles]
+* [Model view controller architecture][soft-mvc]
+
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
 [Previous Year Question Paper][micro-prev]
