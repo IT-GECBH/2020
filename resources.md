@@ -83,7 +83,6 @@ permalink: /resources/
 [Syllabus][net-syll] *( Credits: 3 )* <br/>
 [Previous Year Question Paper][net-prev]
 
-* Computer Networks by Andrew S. Tanenbaum 
 
 ## **Computer Graphics**
 [Syllabus][cg-syll] *( Credits: 3 )*  <br/>
