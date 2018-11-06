@@ -25,12 +25,14 @@ permalink: /resources/
   * [Online Shopping example][soft-shop]
   * [Library Management System example][soft-lib]
 * Activity diagram
-  * [Notes][activity-diagram]
+  * [Notes1][activity-diagram]
+  * [Notes2][activity-diagram2]
   * Online shopping system [img1][act-shop-img1] / [img2][act-shop-img2]
 * [State Diagram][sadp-state]
 * [Software Architecture Styles][soft-arch-styles]
 * [Model view controller architecture][soft-mvc]
-
+* [Interaction Diagrams][sadp-interaction]
+* [Deployment Diagram][sadp-deploy]
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
 [Previous Year Question Paper][micro-prev]
@@ -157,6 +159,9 @@ permalink: /resources/
 [sadp-state]: /resources/SOFTWARE/series2/6-States,_Actions,_&_Activities.pdf
 [soft-arch-styles]: /resources/SOFTWARE/series2/sw_arch_styles_new.pptx
 [soft-mvc]: /resources/SOFTWARE/series2/MVC.ppt
+[sadp-interaction]: /resources/SOFTWARE/series2/Interaction_Diagrams.pptx
+[sadp-deploy]: /resources/SOFTWARE/series2/deployment-diagram.pdf
+[activity-diagram2]: /resources/SOFTWARE/series2/Activity_diagram_notes.pdf
 
 [net-syll]: /resources/NETWORKS/IT307_Computer_Networks.pdf 
 [net-prev]: /resources/NETWORKS/IT_307Semester-5.pdf
