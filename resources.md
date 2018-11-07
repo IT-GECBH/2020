@@ -66,7 +66,7 @@ permalink: /resources/
 
 # Series 2:
 * [Classic problems of synchronisation][os-classic-sync]
-* [Critical reagion and solutions][os-critic]
+* [Critical region and solutions][os-critic]
 * [Deadlocks][os-deadlock]
 * [Deadlocks more][os-deadlocks-more]
 * [IO Systems][os-io-sys]
