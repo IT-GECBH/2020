@@ -56,7 +56,11 @@ permalink: /resources/
 * [8051 architecture][8051arch]
 * [8051 addressing modes][8051add]
 * [8051 notes][8051notes]
+<br/>
 
+# Post Series
+* [8255][micro-8255]
+* [8259][micro-8259]
 ## **Operating Systems**
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][os-prev]
@@ -129,6 +133,8 @@ permalink: /resources/
 [8051arch]: /resources/MICROPROCESSOR/series2/8051arch.ppt
 [8051add]: /resources/MICROPROCESSOR/series2/addressingmodes8051.ppt
 [8051notes]: /resources/MICROPROCESSOR/series2/8051mc-notes-121004121921-phpapp01.pdf
+[micro-8255]: /resources/MICROPROCESSOR/series2/8255.ppt
+[micro-8259]: /resources/MICROPROCESSOR/series2/8259.ppt
 
 [os-prev]: /resources/OS/IT305-A.pdf
 [os-syll]: /resources/OS/IT305_Operating_systems.pdf
