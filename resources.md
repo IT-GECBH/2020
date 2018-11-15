@@ -38,6 +38,7 @@ permalink: /resources/
 # Post Series:
 * [Design principles I: Correctness and Robustness][sadp-dp-1]
 * [Design principles II: Flexibility, Reusability and Efficiency][sadp-dp-2]
+
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
 [Previous Year Question Paper][micro-prev]
@@ -61,6 +62,7 @@ permalink: /resources/
 # Post Series
 * [8255][micro-8255]
 * [8259][micro-8259]
+
 ## **Operating Systems**
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][os-prev]
