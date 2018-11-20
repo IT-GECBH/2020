@@ -84,7 +84,7 @@ permalink: /resources/
 
 ## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
-[Previous Year Question Paper][soft-prev]
+[Previous Year Question Paper][toc-prev]
 # Series 1:
 * [TOC notes][t-note] 
 <br/>
