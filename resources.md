@@ -112,7 +112,7 @@ permalink: /resources/
 * [GCC and Make](http://www.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 * [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
 * [Unix Comparisions](http://tldp.org/LDP/abs/html/comparison-ops.html)
-* [awk manual](http://www.cs.unibo.it/~renzo/doc/awk/nawkA4.pdf)
+* [AWK Manual](http://www.cs.unibo.it/~renzo/doc/awk/nawkA4.pdf)
 
 
 ## **Database Lab**
