@@ -114,8 +114,11 @@ permalink: /resources/
 * [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
 * [Unix Comparisions](http://tldp.org/LDP/abs/html/comparison-ops.html)
 * [AWK Manual](http://www.cs.unibo.it/~renzo/doc/awk/nawkA4.pdf)
+<br/>
 
-
+# Post Series
+* [AWK][unix-awk]
+* [Shell jobs][unix-shell-jobs]
 ## **Database Lab**
 * Postgres notes [PDF][dblab-post-pdf] / [SQL][dblab-post-sql]
 * Questions [PDF][dblab-ques-pdf] / [SQL][dblab-ques-sql]
@@ -200,3 +203,5 @@ permalink: /resources/
 
 [unix-syll]: /resources/UNIX/IT363_Unix_Shell_Programming.pdf
 [unix-prev]: /resources/UNIX/Unix_Shell_Programming.pdf
+[unix-awk]: /resources/UNIX/awk.pptx
+[unix-shell-jobs]: /resources/UNIX/shell-jobs.ppt
