@@ -38,6 +38,7 @@ permalink: /resources/
 # Post Series:
 * [Design principles I: Correctness and Robustness][sadp-dp-1]
 * [Design principles II: Flexibility, Reusability and Efficiency][sadp-dp-2]
+
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
 [Previous Year Question Paper][micro-prev]
@@ -61,6 +62,8 @@ permalink: /resources/
 # Post Series
 * [8255][micro-8255]
 * [8259][micro-8259]
+* [8257][micro-8257]
+
 ## **Operating Systems**
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][os-prev]
@@ -82,7 +85,7 @@ permalink: /resources/
 
 ## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
-[Previous Year Question Paper][soft-prev]
+[Previous Year Question Paper][toc-prev]
 # Series 1:
 * [TOC notes][t-note] 
 <br/>
@@ -110,6 +113,7 @@ permalink: /resources/
 * [GCC and Make](http://www.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 * [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
 * [Unix Comparisions](http://tldp.org/LDP/abs/html/comparison-ops.html)
+* [AWK Manual](http://www.cs.unibo.it/~renzo/doc/awk/nawkA4.pdf)
 
 
 ## **Database Lab**
@@ -135,6 +139,7 @@ permalink: /resources/
 [8051notes]: /resources/MICROPROCESSOR/series2/8051mc-notes-121004121921-phpapp01.pdf
 [micro-8255]: /resources/MICROPROCESSOR/series2/8255.ppt
 [micro-8259]: /resources/MICROPROCESSOR/series2/8259.ppt
+[micro-8257]: /resources/MICROPROCESSOR/series2/8257_DMA_Controller.pptx
 
 [os-prev]: /resources/OS/IT305-A.pdf
 [os-syll]: /resources/OS/IT305_Operating_systems.pdf
