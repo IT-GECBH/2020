@@ -119,6 +119,7 @@ permalink: /resources/
 # Post Series
 * [AWK][unix-awk]
 * [Shell jobs][unix-shell-jobs]
+
 ## **Database Lab**
 * Postgres notes [PDF][dblab-post-pdf] / [SQL][dblab-post-sql]
 * Questions [PDF][dblab-ques-pdf] / [SQL][dblab-ques-sql]
