@@ -63,6 +63,7 @@ permalink: /resources/
 * [8255][micro-8255]
 * [8259][micro-8259]
 * [8257][micro-8257]
+* [8279][micro-8279]
 
 ## **Operating Systems**
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
@@ -144,6 +145,7 @@ permalink: /resources/
 [micro-8255]: /resources/MICROPROCESSOR/series2/8255.ppt
 [micro-8259]: /resources/MICROPROCESSOR/series2/8259.ppt
 [micro-8257]: /resources/MICROPROCESSOR/series2/8257_DMA_Controller.pptx
+[micro-8279]:  /resources/MICROPROCESSOR/series2/8279b.pptx
 
 [os-prev]: /resources/OS/IT305-A.pdf
 [os-syll]: /resources/OS/IT305_Operating_systems.pdf
