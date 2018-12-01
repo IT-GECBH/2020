@@ -38,6 +38,7 @@ permalink: /resources/
 # Post Series:
 * [Design principles I: Correctness and Robustness][sadp-dp-1]
 * [Design principles II: Flexibility, Reusability and Efficiency][sadp-dp-2]
+* [Introduction to ATAM][atam-sadp]
 
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
@@ -186,6 +187,7 @@ permalink: /resources/
 [activity-diagram2]: /resources/SOFTWARE/series2/Activity_diagram_notes.pdf
 [sadp-dp-1]: /resources/SOFTWARE/series2/4_Design_Principles_I.pdf
 [sadp-dp-2]: /resources/SOFTWARE/series2/5_Design_Principles_II.pdf
+[atam-sadp]: /resources/SOFTWARE/series2/IntroductionATAM.pdf
 
 [net-syll]: /resources/NETWORKS/IT307_Computer_Networks.pdf 
 [net-prev]: /resources/NETWORKS/IT_307Semester-5.pdf
