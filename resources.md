@@ -62,8 +62,8 @@ permalink: /resources/
 
 # Post Series
 * [8255][micro-8255]
-* [8259][micro-8259]
 * [8257][micro-8257]
+* [8259][micro-8259]
 * [8279][micro-8279]
 
 ## **Operating Systems**
