@@ -44,6 +44,7 @@ permalink: /resources/
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
 [Previous Year Question Paper][micro-prev]
 # Series 1:
+* [Module 1][module_1]
 * [Instruction set of 8086][8086-instruction-set]
 * [Module 2][module_2]
 * [Procedure and macros][macros_ppt]
@@ -135,6 +136,7 @@ permalink: /resources/
 [mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
 [8086-instruction-set]: /resources/MICROPROCESSOR/series1/instruction-set-of-8086.pptx
 [module_2]: /resources/MICROPROCESSOR/series1/Module_2.pptx
+[module_1]: /resources/MICROPROCESSOR/series1/mod1.pptx
 [macros_ppt]: /resources/MICROPROCESSOR/series1/procedure_and_macros.ppt
 [intra_direct_indirect]: /resources/MICROPROCESSOR/series1/intra_direct_indirect.jpeg
 [inter_direct_indirect]: /resources/MICROPROCESSOR/series1/inter_direct_indirect.jpeg
