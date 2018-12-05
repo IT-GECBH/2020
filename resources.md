@@ -85,7 +85,14 @@ permalink: /resources/
 * [Deadlocks more][os-deadlocks-more]
 * [IO Systems][os-io-sys]
 * [Disk Scheduling Algorithms][os-disk]
+<br/>
 
+# Post Series
+* [Virtual Memory][os-vm]
+* [File Systems][os-fs]
+* [Memory Management][os-mm]
+* [File Structures][os-fstruct]
+* [Segmented Paging][os-seg-page]
 ## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][toc-prev]
@@ -163,6 +170,11 @@ permalink: /resources/
 [os-io-sys]: /resources/OS/series2/Section12-IO_Systems.ppt
 [os-disk]: /resources/OS/series2/Disk_Scheduling_Algorithms-GeeksforGeeks.pdf
 [os-deadlocks-more]: /resources/OS/series2/Section07-Deadlocks-more.ppt
+[os-vm]: /resources/OS/series2/Section09-Virtual_Memory.ppt
+[os-fs]: /resources/OS/series2/Section10-File_Systems.ppt
+[os-mm]: /resources/OS/series2/Section08-Memory_Management_4_class.ppt
+[os-fstruct]: /resources/OS/series2/Section11-File_Struct.ppt
+[os-seg-page]: /resources/OS/series2/Segmented_PAGING.pdf
 
 [soft-prev]: /resources/SOFTWARE/IT_301.pdf
 [soft-class-notes]: /resources/SOFTWARE/series2/class_diagrams.docx
