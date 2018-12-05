@@ -88,11 +88,11 @@ permalink: /resources/
 <br/>
 
 # Post Series
+* [Memory Management][os-mm]
+* [Segmented Paging][os-seg-page]
 * [Virtual Memory][os-vm]
 * [File Systems][os-fs]
-* [Memory Management][os-mm]
 * [File Structures][os-fstruct]
-* [Segmented Paging][os-seg-page]
 
 ## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
