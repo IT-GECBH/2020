@@ -93,6 +93,7 @@ permalink: /resources/
 * [Memory Management][os-mm]
 * [File Structures][os-fstruct]
 * [Segmented Paging][os-seg-page]
+
 ## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][toc-prev]
