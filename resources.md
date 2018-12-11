@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 ## **Software Architecture**
 [Syllabus][sof-syll] *( Credits: 4 )* <br/>
-[Previous Year Question Paper][soft-prev]
+Previous Year Question Papers: [Regular][soft-prev-1]/[Supplementary][soft-prev-2]
 # Series 1:
 * [Process models][process-models]
 * [Software Design Principles][soft-design-principles]
@@ -178,7 +178,8 @@ permalink: /resources/
 [os-fstruct]: /resources/OS/series2/Section11-File_Struct.ppt
 [os-seg-page]: /resources/OS/series2/Segmented_PAGING.pdf
 
-[soft-prev]: /resources/SOFTWARE/IT_301.pdf
+[soft-prev-1]: /resources/SOFTWARE/IT_301.pdf
+[soft-prev-2]: /resources/SOFTWARE/2018-April-IT301-B.pdf
 [soft-class-notes]: /resources/SOFTWARE/series2/class_diagrams.docx
 [soft-shop]: /resources/SOFTWARE/series2/class-example-online-shopping-domain.png
 [soft-lib]: /resources/SOFTWARE/series2/library-management-system-7-638.jpg
