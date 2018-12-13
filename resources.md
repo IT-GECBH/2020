@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-## **Software Architecture**
+## ~~**Software Architecture**~~
 [Syllabus][sof-syll] *( Credits: 4 )* <br/>
 Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-prev-2]
 # Series 1:
