@@ -97,7 +97,7 @@ Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-pre
 
 ## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
-[Previous Year Question Paper][toc-prev]
+Previous Year Question Papers: [Regular][toc-prev-1] / [Supplymentary][toc-prev-2]
 # Series 1:
 * [TOC notes][t-note] 
 <br/>
@@ -210,7 +210,8 @@ Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-pre
 [net-syll]: /resources/NETWORKS/IT307_Computer_Networks.pdf 
 [net-prev]: /resources/NETWORKS/IT_307Semester-5.pdf
 
-[toc-prev]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
+[toc-prev-1]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
+[toc-prev-2]: /resources/TOC/IT303_S.pdf
 [toc-syll]: /resources/TOC/IT303_Theory_of_Computation.pdf
 [t-note]: /resources/TOC/series1/TOC_notes.doc
 
