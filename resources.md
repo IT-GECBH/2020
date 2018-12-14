@@ -3,9 +3,9 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-## **Software Architecture**
+## ~~**Software Architecture**~~
 [Syllabus][sof-syll] *( Credits: 4 )* <br/>
-Previous Year Question Papers: [Regular][soft-prev-1]/[Supplementary][soft-prev-2]
+Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-prev-2]
 # Series 1:
 * [Process models][process-models]
 * [Software Design Principles][soft-design-principles]
@@ -97,7 +97,7 @@ Previous Year Question Papers: [Regular][soft-prev-1]/[Supplementary][soft-prev-
 
 ## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
-[Previous Year Question Paper][toc-prev]
+Previous Year Question Papers: [Regular][toc-prev-1] / [Supplymentary][toc-prev-2]
 # Series 1:
 * [TOC notes][t-note] 
 <br/>
@@ -179,7 +179,7 @@ Previous Year Question Papers: [Regular][soft-prev-1]/[Supplementary][soft-prev-
 [os-seg-page]: /resources/OS/series2/Segmented_PAGING.pdf
 
 [soft-prev-1]: /resources/SOFTWARE/IT_301.pdf
-[soft-prev-2]: /resources/SOFTWARE/2018-April-IT301-B.pdf
+[soft-prev-2]: /resources/SOFTWARE/IT301_S.pdf
 [soft-class-notes]: /resources/SOFTWARE/series2/class_diagrams.docx
 [soft-shop]: /resources/SOFTWARE/series2/class-example-online-shopping-domain.png
 [soft-lib]: /resources/SOFTWARE/series2/library-management-system-7-638.jpg
@@ -210,7 +210,8 @@ Previous Year Question Papers: [Regular][soft-prev-1]/[Supplementary][soft-prev-
 [net-syll]: /resources/NETWORKS/IT307_Computer_Networks.pdf 
 [net-prev]: /resources/NETWORKS/IT_307Semester-5.pdf
 
-[toc-prev]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
+[toc-prev-1]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
+[toc-prev-2]: /resources/TOC/IT303_S.pdf
 [toc-syll]: /resources/TOC/IT303_Theory_of_Computation.pdf
 [t-note]: /resources/TOC/series1/TOC_notes.doc
 
