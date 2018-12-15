@@ -43,7 +43,7 @@ Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-pre
 
 ## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
-[Previous Year Question Paper][micro-prev]
+Previous Year Question Papers: [Regular][micro-prev-1] / [Supplementary][micro-prev-2]
 # Series 1:
 * [Module 1][module_1]
 * [Instruction set of 8086][8086-instruction-set]
@@ -141,7 +141,8 @@ Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-
 # Websites:
  * [Tutorials Point](https://www.tutorialspoint.com/postgresql/)
  
-[micro-prev]: /resources/MICROPROCESSOR/CS305._S5_Dec_17_Regular.pdf
+[micro-prev-1]: /resources/MICROPROCESSOR/CS305._S5_Dec_17_Regular.pdf
+[micro-prev-2]: /resources/MICROPROCESSOR/CS305_S.pdf
 [mic-syll]: /resources/MICROPROCESSOR/CS305_Microprocessors_and_microcontrollers.pdf
 [8086-instruction-set]: /resources/MICROPROCESSOR/series1/instruction-set-of-8086.pptx
 [module_2]: /resources/MICROPROCESSOR/series1/Module_2.pptx
