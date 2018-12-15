@@ -95,7 +95,7 @@ Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-pre
 * [File Systems][os-fs]
 * [File Structures][os-fstruct]
 
-## **Theory of Computation**
+## ~~**Theory of Computation**~~
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
 Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-2]
 # Series 1:
