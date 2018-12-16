@@ -63,6 +63,7 @@ Previous Year Question Papers: [Regular][micro-prev-1] / [Supplementary][micro-p
 <br/>
 
 # Post Series
+* [8254][micro-8254]
 * [8255][micro-8255]
 * [8257][micro-8257]
 * [8259][micro-8259]
@@ -159,6 +160,8 @@ Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-
 [micro-8259]: /resources/MICROPROCESSOR/series2/8259.ppt
 [micro-8257]: /resources/MICROPROCESSOR/series2/8257_DMA_Controller.pptx
 [micro-8279]: /resources/MICROPROCESSOR/series2/8279b.pptx
+[micro-8254]: /resources/MICROPROCESSOR/8254.pptx
+
 
 [os-prev]: /resources/OS/IT305-A.pdf
 [os-syll]: /resources/OS/IT305_Operating_systems.pdf
