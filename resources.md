@@ -41,7 +41,7 @@ Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-pre
 * [Introduction to ATAM][atam-sadp]
 * [ATAM][sadp-atam]
 
-## **Microprocessor and Microcontroller**
+## ~~**Microprocessor and Microcontroller**~~
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
 Previous Year Question Papers: [Regular][micro-prev-1] / [Supplementary][micro-prev-2]
 # Series 1:
