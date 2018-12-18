@@ -3,6 +3,59 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
+## **Operating Systems**
+[Syllabus][os-syll] *( Credits: 3 )*  <br/>
+[Previous Year Question Paper][os-prev]
+# Series 1:
+* [Process creation, Coordination and Synchronization][PCS]
+* [Operating System Structures][Section03-Structures]
+* [Processes][Section04-Processes4 class]
+* [Scheduling][Section05-Scheduling 4clas final]
+* [Operating systems overview][operating_systems_overview]
+<br/>
+
+# Series 2:
+* [Classic problems of synchronisation][os-classic-sync]
+* [Critical region and solutions][os-critic]
+* [Deadlocks][os-deadlock]
+* [Deadlocks more][os-deadlocks-more]
+* [IO Systems][os-io-sys]
+* [Disk Scheduling Algorithms][os-disk]
+<br/>
+
+# Post Series
+* [Memory Management][os-mm]
+* [Segmented Paging][os-seg-page]
+* [Virtual Memory][os-vm]
+* [File Systems][os-fs]
+* [File Structures][os-fstruct]
+
+## **Computer Graphics**
+[Syllabus][cg-syll] *( Credits: 3 )*  <br/>
+[Previous Year Question Paper][cg-prev]
+
+## **UNIX**
+[Syllabus][unix-syll] *( Credits: 3 )*  <br/>
+[Previous Year Question Paper][unix-prev]
+# Websites:
+* [Tutorials Point](https://www.tutorialspoint.com/unix/)
+* [Writing Unix Scripts](https://web.calpoly.edu/~rasplund/script.html)
+* [UNIX Interview Questions](https://linoxide.com/linux-shell-script/shell-scripting-interview-questions-answers/)
+* [GNU plot](https://people.duke.edu/~hpgavin/gnuplot.html)
+* [GCC and Make](http://www.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
+* [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
+* [Unix Comparisions](http://tldp.org/LDP/abs/html/comparison-ops.html)
+* [AWK Manual](http://www.cs.unibo.it/~renzo/doc/awk/nawkA4.pdf)
+<br/>
+
+# Post Series
+* [AWK][unix-awk]
+* [Shell jobs][unix-shell-jobs]
+
+## **Computer Networks**
+[Syllabus][net-syll] *( Credits: 3 )* <br/>
+[Previous Year Question Paper][net-prev]
+
 ## ~~**Software Architecture**~~
 [Syllabus][sof-syll] *( Credits: 4 )* <br/>
 Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-prev-2]
@@ -69,33 +122,6 @@ Previous Year Question Papers: [Regular][micro-prev-1] / [Supplementary][micro-p
 * [8259][micro-8259]
 * [8279][micro-8279]
 
-## **Operating Systems**
-[Syllabus][os-syll] *( Credits: 3 )*  <br/>
-[Previous Year Question Paper][os-prev]
-# Series 1:
-* [Process creation, Coordination and Synchronization][PCS]
-* [Operating System Structures][Section03-Structures]
-* [Processes][Section04-Processes4 class]
-* [Scheduling][Section05-Scheduling 4clas final]
-* [Operating systems overview][operating_systems_overview]
-<br/>
-
-# Series 2:
-* [Classic problems of synchronisation][os-classic-sync]
-* [Critical region and solutions][os-critic]
-* [Deadlocks][os-deadlock]
-* [Deadlocks more][os-deadlocks-more]
-* [IO Systems][os-io-sys]
-* [Disk Scheduling Algorithms][os-disk]
-<br/>
-
-# Post Series
-* [Memory Management][os-mm]
-* [Segmented Paging][os-seg-page]
-* [Virtual Memory][os-vm]
-* [File Systems][os-fs]
-* [File Structures][os-fstruct]
-
 ## ~~**Theory of Computation**~~
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
 Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-2]
@@ -105,33 +131,6 @@ Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-
 
 # Websites:
 * [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
- 
-## **Computer Networks**
-[Syllabus][net-syll] *( Credits: 3 )* <br/>
-[Previous Year Question Paper][net-prev]
-
-
-## **Computer Graphics**
-[Syllabus][cg-syll] *( Credits: 3 )*  <br/>
-[Previous Year Question Paper][cg-prev]
-
-## **UNIX**
-[Syllabus][unix-syll] *( Credits: 3 )*  <br/>
-[Previous Year Question Paper][unix-prev]
-# Websites:
-* [Tutorials Point](https://www.tutorialspoint.com/unix/)
-* [Writing Unix Scripts](https://web.calpoly.edu/~rasplund/script.html)
-* [UNIX Interview Questions](https://linoxide.com/linux-shell-script/shell-scripting-interview-questions-answers/)
-* [GNU plot](https://people.duke.edu/~hpgavin/gnuplot.html)
-* [GCC and Make](http://www.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
-* [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
-* [Unix Comparisions](http://tldp.org/LDP/abs/html/comparison-ops.html)
-* [AWK Manual](http://www.cs.unibo.it/~renzo/doc/awk/nawkA4.pdf)
-<br/>
-
-# Post Series
-* [AWK][unix-awk]
-* [Shell jobs][unix-shell-jobs]
 
 ## **Database Lab**
 * Postgres notes [PDF][dblab-post-pdf] / [SQL][dblab-post-sql]
