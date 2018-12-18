@@ -132,7 +132,7 @@ Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-
 # Websites:
 * [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 
-## **Database Lab**
+## ~~**Database Lab**~~
 * Postgres notes [PDF][dblab-post-pdf] / [SQL][dblab-post-sql]
 * Questions [PDF][dblab-ques-pdf] / [SQL][dblab-ques-sql]
 * Functions [PDF][dblab-func-pdf] / [SQL][dblab-func-sql]
