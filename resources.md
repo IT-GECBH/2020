@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 ## **Operating Systems**
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
-[Previous Year Question Paper][os-prev]
+Previous Year Question Papers: [Regular][os-prev-1] / [Supplementary][os-prev-2]
 # Series 1:
 * [Process creation, Coordination and Synchronization][PCS]
 * [Operating System Structures][Section03-Structures]
@@ -162,7 +162,8 @@ Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-
 [micro-8254]: /resources/MICROPROCESSOR/8254.pptx
 
 
-[os-prev]: /resources/OS/IT305-A.pdf
+[os-prev-1]: /resources/OS/IT305-A.pdf
+[os-prev-2]: /resources/OS/IT305_S.pdf
 [os-syll]: /resources/OS/IT305_Operating_systems.pdf
 [PCS]: /resources/OS/series1/processcreation_coorporation_synchronization.ppt
 [Section03-Structures]: /resources/OS/series1/Section03-Structures.ppt
