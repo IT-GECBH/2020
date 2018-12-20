@@ -3,32 +3,6 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-## **Operating Systems**
-[Syllabus][os-syll] *( Credits: 3 )*  <br/>
-Previous Year Question Papers: [Regular][os-prev-1] / [Supplementary][os-prev-2]
-# Series 1:
-* [Process creation, Coordination and Synchronization][PCS]
-* [Operating System Structures][Section03-Structures]
-* [Processes][Section04-Processes4 class]
-* [Scheduling][Section05-Scheduling 4clas final]
-* [Operating systems overview][operating_systems_overview]
-<br/>
-
-# Series 2:
-* [Classic problems of synchronisation][os-classic-sync]
-* [Critical region and solutions][os-critic]
-* [Deadlocks][os-deadlock]
-* [Deadlocks more][os-deadlocks-more]
-* [IO Systems][os-io-sys]
-* [Disk Scheduling Algorithms][os-disk]
-<br/>
-
-# Post Series
-* [Memory Management][os-mm]
-* [Segmented Paging][os-seg-page]
-* [Virtual Memory][os-vm]
-* [File Systems][os-fs]
-* [File Structures][os-fstruct]
 
 ## **Computer Graphics**
 [Syllabus][cg-syll] *( Credits: 3 )*  <br/>
@@ -55,6 +29,34 @@ Previous Year Question Papers: [Regular][os-prev-1] / [Supplementary][os-prev-2]
 ## **Computer Networks**
 [Syllabus][net-syll] *( Credits: 3 )* <br/>
 [Previous Year Question Paper][net-prev]
+
+## ~~**Operating Systems**~~
+[Syllabus][os-syll] *( Credits: 3 )*  <br/>
+Previous Year Question Papers: [Regular][os-prev-1] / [Supplementary][os-prev-2]
+# Series 1:
+* [Process creation, Coordination and Synchronization][PCS]
+* [Operating System Structures][Section03-Structures]
+* [Processes][Section04-Processes4 class]
+* [Scheduling][Section05-Scheduling 4clas final]
+* [Operating systems overview][operating_systems_overview]
+<br/>
+
+# Series 2:
+* [Classic problems of synchronisation][os-classic-sync]
+* [Critical region and solutions][os-critic]
+* [Deadlocks][os-deadlock]
+* [Deadlocks more][os-deadlocks-more]
+* [IO Systems][os-io-sys]
+* [Disk Scheduling Algorithms][os-disk]
+<br/>
+
+# Post Series
+* [Memory Management][os-mm]
+* [Segmented Paging][os-seg-page]
+* [Virtual Memory][os-vm]
+* [File Systems][os-fs]
+* [File Structures][os-fstruct]
+
 
 ## ~~**Software Architecture**~~
 [Syllabus][sof-syll] *( Credits: 4 )* <br/>
