@@ -10,7 +10,7 @@ permalink: /resources/
 
 ## **UNIX**
 [Syllabus][unix-syll] *( Credits: 3 )*  <br/>
-[Previous Year Question Paper][unix-prev]
+Previous Year Question Papers:  [Regular][unix-prev-1] / [Supplementary][unix-prev-2]
 # Websites:
 * [Tutorials Point](https://www.tutorialspoint.com/unix/)
 * [Writing Unix Scripts](https://web.calpoly.edu/~rasplund/script.html)
@@ -232,6 +232,7 @@ Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-
 [dblab-func-sql]: /resources/DB-LAB/functions.sql
 
 [unix-syll]: /resources/UNIX/IT363_Unix_Shell_Programming.pdf
-[unix-prev]: /resources/UNIX/Unix_Shell_Programming.pdf
+[unix-prev-1]: /resources/UNIX/Unix_Shell_Programming.pdf
+[unix-prev-2]: /resources/UNIX/IT363_S.pdf
 [unix-awk]: /resources/UNIX/awk.pptx
 [unix-shell-jobs]: /resources/UNIX/shell-jobs.ppt
