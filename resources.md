@@ -7,7 +7,7 @@ permalink: /resources/
 
 ## **Computer Networks**
 [Syllabus][net-syll] *( Credits: 3 )* <br/>
-[Previous Year Question Paper][net-prev]
+Previous Year Question Papers: [Regular][net-prev-1] / [Supplementary][net-prev-2]
 
 ## **Computer Graphics**
 [Syllabus][cg-syll] *( Credits: 3 )*  <br/>
@@ -215,7 +215,9 @@ Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-
 [sadp-atam]: /resources/SOFTWARE/series2/ATAM-.pdf
 
 [net-syll]: /resources/NETWORKS/IT307_Computer_Networks.pdf 
-[net-prev]: /resources/NETWORKS/IT_307Semester-5.pdf
+[net-prev-1]: /resources/NETWORKS/IT_307Semester-5.pdf
+[net-prev-2]: /resources/NETWORKS/IT307_S.pdf
+
 
 [toc-prev-1]: /resources/TOC/IT303._S5_Dec_17_Regular.pdf
 [toc-prev-2]: /resources/TOC/IT303_S.pdf
