@@ -5,10 +5,6 @@ permalink: /resources/
 ---
 
 
-## **Computer Networks**
-[Syllabus][net-syll] *( Credits: 3 )* <br/>
-Previous Year Question Papers: [Regular][net-prev-1] / [Supplementary][net-prev-2]
-
 ## **Computer Graphics**
 [Syllabus][cg-syll] *( Credits: 3 )*  <br/>
 [Previous Year Question Paper][cg-prev]
@@ -30,6 +26,11 @@ Previous Year Question Papers:  [Regular][unix-prev-1] / [Supplementary][unix-pr
 # Post Series
 * [AWK][unix-awk]
 * [Shell jobs][unix-shell-jobs]
+
+
+## ~~**Computer Networks**~~
+[Syllabus][net-syll] *( Credits: 3 )* <br/>
+Previous Year Question Papers: [Regular][net-prev-1] / [Supplementary][net-prev-2]
 
 ## ~~**Operating Systems**~~
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
