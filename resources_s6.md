@@ -32,5 +32,5 @@ permalink: /resources-s6/
 [cd-syll]: year3/resources/CD/CS304_Compiler_Design.pdf
 [dwm-syll]: year3/resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
 [ds-syll]: year3/resources/DS/IT306_Distributed_Systems.pdf
-[adbm-syll]: year3/resources/ADMS/IT366_Advanced_Database_Management_Systems.pdf
+[adbms-syll]: year3/resources/ADMS/IT366_Advanced_Database_Management_Systems.pdf
 [pom-syll]: year3/resources/POM/HS300_Principles_of_management.pdf
