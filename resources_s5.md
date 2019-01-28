@@ -1,7 +1,7 @@
 ---
 layout: page
 title: S5
-permalink: /resources/
+permalink: /resources-s5/
 ---
 
 
