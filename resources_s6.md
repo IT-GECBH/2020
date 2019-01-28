@@ -1,6 +1,6 @@
 ---
 layout: page
-title: S5
+title: S6
 permalink: /resources-s6/
 ---
 
