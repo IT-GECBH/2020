@@ -28,11 +28,11 @@ Previous Year Question Papers:  [Regular][unix-prev-1] / [Supplementary][unix-pr
 * [Shell jobs][unix-shell-jobs]
 
 
-## ~~**Computer Networks**~~
+## **Computer Networks**
 [Syllabus][net-syll] *( Credits: 3 )* <br/>
 Previous Year Question Papers: [Regular][net-prev-1] / [Supplementary][net-prev-2]
 
-## ~~**Operating Systems**~~
+## **Operating Systems**
 [Syllabus][os-syll] *( Credits: 3 )*  <br/>
 Previous Year Question Papers: [Regular][os-prev-1] / [Supplementary][os-prev-2]
 # Series 1:
@@ -60,7 +60,7 @@ Previous Year Question Papers: [Regular][os-prev-1] / [Supplementary][os-prev-2]
 * [File Structures][os-fstruct]
 
 
-## ~~**Software Architecture**~~
+## **Software Architecture**
 [Syllabus][sof-syll] *( Credits: 4 )* <br/>
 Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-prev-2]
 # Series 1:
@@ -98,7 +98,7 @@ Previous Year Question Papers: [Regular][soft-prev-1] / [Supplementary][soft-pre
 * [Introduction to ATAM][atam-sadp]
 * [ATAM][sadp-atam]
 
-## ~~**Microprocessor and Microcontroller**~~
+## **Microprocessor and Microcontroller**
 [Syllabus][mic-syll] *( Credits: 3 )*   <br/>
 Previous Year Question Papers: [Regular][micro-prev-1] / [Supplementary][micro-prev-2]
 # Series 1:
@@ -126,7 +126,7 @@ Previous Year Question Papers: [Regular][micro-prev-1] / [Supplementary][micro-p
 * [8259][micro-8259]
 * [8279][micro-8279]
 
-## ~~**Theory of Computation**~~
+## **Theory of Computation**
 [Syllabus][toc-syll] *( Credits: 3 )*  <br/>
 Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-2]
 # Series 1:
@@ -136,7 +136,7 @@ Previous Year Question Papers: [Regular][toc-prev-1] / [Supplementary][toc-prev-
 # Websites:
 * [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 
-## ~~**Database Lab**~~
+## **Database Lab**
 * Postgres notes [PDF][dblab-post-pdf] / [SQL][dblab-post-sql]
 * Questions [PDF][dblab-ques-pdf] / [SQL][dblab-ques-sql]
 * Functions [PDF][dblab-func-pdf] / [SQL][dblab-func-sql]
