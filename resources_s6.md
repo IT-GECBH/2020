@@ -28,9 +28,9 @@ permalink: /resources-s6/
 
 
 
-[it-syll]: year3/resources/IT/IT302_Internet_technology.pdf
-[cd-syll]: year3/resources/CD/CS304_Compiler_Design.pdf
-[dwm-syll]: year3/resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
-[ds-syll]: year3/resources/DS/IT306_Distributed_Systems.pdf
-[adbms-syll]: year3/resources/ADMS/IT366_Advanced_Database_Management_Systems.pdf
-[pom-syll]: year3/resources/POM/HS300_Principles_of_management.pdf
+[it-syll]: /resources/IT/IT302_Internet_technology.pdf
+[cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
+[dwm-syll]: /resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
+[ds-syll]: /resources/DS/IT306_Distributed_Systems.pdf
+[adbms-syll]: /resources/ADMS/IT366_Advanced_Database_Management_Systems.pdf
+[pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
