@@ -14,6 +14,9 @@ permalink: /resources-s6/
 
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br/>
+# Series 1:
+* [Data Warehousing][data-ware-ppt]
+* [Tutorial 1][dwm-tut-1]
 
 ## **Distributed Systems**
 [Syllabus][ds-syll] *( Credits: 3 )*  <br/>
@@ -34,6 +37,8 @@ permalink: /resources-s6/
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
 
 [dwm-syll]: /resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
+[data-ware-ppt]: /resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
+[dwm-tut-1]: /resources/DWM/tutorial1_data_warehousing.pdf
 
 [ds-syll]: /resources/DS/IT306_Distributed_Systems.pdf
 
