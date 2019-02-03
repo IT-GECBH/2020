@@ -37,7 +37,7 @@ permalink: /resources-s6/
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
 
 [dwm-syll]: /resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
-[data-ware-ppt]: /resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
+[data-ware-ppt]: /resources/DWM/data_warehousing.ppt
 [dwm-tut-1]: /resources/DWM/tutorial1_data_warehousing.pdf
 
 [ds-syll]: /resources/DS/IT306_Distributed_Systems.pdf
