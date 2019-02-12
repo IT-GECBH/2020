@@ -4,28 +4,29 @@ title: S6
 permalink: /resources-s6/
 ---
 
-
-
-## **Internet Technology**
-[Syllabus][it-syll] *( Credits: 4 )*  <br/>
+## **Advanced DBMS**
+[Syllabus][adbms-syll] *( Credits: 3 )*  <br />
 
 ## **Compiler Design**
-[Syllabus][cd-syll] *( Credits: 3 )*  <br/>
+[Syllabus][cd-syll] *( Credits: 3 )*  <br />
 
 ## **Data Warehousing and Mining**
-[Syllabus][dwm-syll] *( Credits: 3 )*  <br/>
+[Syllabus][dwm-syll] *( Credits: 3 )*  <br />
 # Series 1:
 * [Data Warehousing][data-ware-ppt]
 * [Tutorial 1][dwm-tut-1]
 
 ## **Distributed Systems**
-[Syllabus][ds-syll] *( Credits: 3 )*  <br/>
+[Syllabus][ds-syll] *( Credits: 3 )*  <br />
 
-## **Advanced DBMS**
-[Syllabus][adbms-syll] *( Credits: 3 )*  <br/>
+## **Internet Technology**
+[Syllabus][it-syll] *( Credits: 4 )*  <br />
 
 ## **Principles of Management**
-[Syllabus][pom-syll] *( Credits: 3 )*  <br/>
+[Syllabus][pom-syll] *( Credits: 3 )*  <br />
+
+## **Software Project Management**
+[Syllabus][spm-syll] *( Credits: 3 )* <br />
 
 ## **Networks Lab**
 * [Lab Exercises][net-lab-ex]
@@ -47,3 +48,5 @@ permalink: /resources-s6/
 [pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
 
 [net-lab-ex]: /resources/CN_LAB/Lab_Exercises.pptx
+
+[spm-syll]: /resources/SPM/IT364_Software_Project_Management.pdf
