@@ -36,7 +36,7 @@ permalink: /resources-s6/
 
 
 [it-syll]: /resources/IT/IT302_Internet_technology.pdf
-[it-mod-1]: /resources/IT/Module I.pptx
+[it-mod-1]: /resources/IT/Module_I.pptx
 
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
 
