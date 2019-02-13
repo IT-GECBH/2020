@@ -22,6 +22,8 @@ permalink: /resources-s6/
 ## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
 
+* [Module 1][it-mod-1]
+
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
 
@@ -34,6 +36,7 @@ permalink: /resources-s6/
 
 
 [it-syll]: /resources/IT/IT302_Internet_technology.pdf
+[it-mod-1]: /resources/IT/Module I.pptx
 
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
 
