@@ -17,6 +17,7 @@ permalink: /resources-s6/
 * [Tutorial 1][dwm-tut-1]
 * [Data Processing][data-proc-ppt]
 * [Tutorial 2][dwm-tut-2]
+
 # Some useful links:
 * [https://www.futurelearn.com/courses/data-mining-with-weka](https://www.futurelearn.com/courses/data-mining-with-weka) *(for tutorial 2)*
 * [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/) *(for tutorial 2)*
