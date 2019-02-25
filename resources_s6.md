@@ -15,6 +15,11 @@ permalink: /resources-s6/
 # Series 1:
 * [Data Warehousing][data-ware-ppt]
 * [Tutorial 1][dwm-tut-1]
+* [Data Processing][data-proc-ppt]
+* [Tutorial 2][dwm-tut-2]
+# Some useful links:
+* https://www.futurelearn.com/courses/data-mining-with-weka *(for tutorial 2)*
+* https://r4ds.had.co.nz/ *(for tutorial 2)*
 
 ## **Distributed Systems**
 [Syllabus][ds-syll] *( Credits: 3 )*  <br />
@@ -43,6 +48,8 @@ permalink: /resources-s6/
 [dwm-syll]: /resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
 [data-ware-ppt]: /resources/DWM/data_warehousing.ppt
 [dwm-tut-1]: /resources/DWM/tutorial1_data_warehousing.pdf
+[data-proc-ppt]: /resources/DWM/datapreprocessing.ppt
+[dwm-tut-2]: /resources/DWM/tut2.pdf
 
 [ds-syll]: /resources/DS/IT306_Distributed_Systems.pdf
 
