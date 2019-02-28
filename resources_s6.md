@@ -17,6 +17,9 @@ permalink: /resources-s6/
 * [Tutorial 1][dwm-tut-1]
 * [Data Processing][data-proc-ppt]
 * [Tutorial 2][dwm-tut-2]
+* [Classification][data-class-ppt]
+* [Tutorial 3][dwm-tut-3]
+* [Linear Regression][dwm-linear]
 
 # Some useful links:
 * [https://www.futurelearn.com/courses/data-mining-with-weka](https://www.futurelearn.com/courses/data-mining-with-weka) *(for tutorial 2)*
@@ -51,6 +54,9 @@ permalink: /resources-s6/
 [dwm-tut-1]: /resources/DWM/tutorial1_data_warehousing.pdf
 [data-proc-ppt]: /resources/DWM/datapreprocessing.ppt
 [dwm-tut-2]: /resources/DWM/tut2.pdf
+[data-class-ppt]: /resources/DWM/classification.ppt
+[dwm-tut-3]: /resources/DWM/tutorial3_classification.pdf
+[dwm-linear]: /resources/DWM/linearregression.pdf
 
 [ds-syll]: /resources/DS/IT306_Distributed_Systems.pdf
 
