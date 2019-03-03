@@ -34,7 +34,8 @@ permalink: /resources-s6/
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
 
-# Programs:
+# Code:
+# Mod 1:
 * [autocomplete.html](/year3/resources/IT/mod_1/autocomplete.html)
 * [form.html](/year3/resources/IT/mod_1/form.html)
 * [horline.html](/year3/resources/IT/mod_1/horline.html)
@@ -43,6 +44,22 @@ permalink: /resources-s6/
 * [structele.html](/year3/resources/IT/mod_1/structele.html)
 * [table.html](/year3/resources/IT/mod_1/table.html)
 * [webpage.html](/year3/resources/IT/mod_1/webpage.html)
+
+# Mod 2:
+* [absolutepos.html](/year3/resources/IT/mod_2/absolutepos.html)
+* [background.html](/year3/resources/IT/mod_2/background.html)
+* [boxmodel.html](/year3/resources/IT/mod_2/boxmodel.html)
+* [confstyle.html](/year3/resources/IT/mod_2/confstyle.html)
+* [confstyle_css.html](/year3/resources/IT/mod_2/confstyle_css.html)
+* [confstyle_org.html](/year3/resources/IT/mod_2/confstyle_org.html)
+* [dimension.html](/year3/resources/IT/mod_2/dimension.html)
+* [dropdown.html](/year3/resources/IT/mod_2/dropdown.html)
+* [embed.html](/year3/resources/IT/mod_2/embed.html)
+* [fixedpos.html](/year3/resources/IT/mod_2/fixedpos.html)
+* [floating.html](/year3/resources/IT/mod_2/floating.html)
+* [inlstyle.html](/year3/resources/IT/mod_2/inlstyle.html)
+* [media.html](/year3/resources/IT/mod_2/media.html)
+* [relativepos.html](/year3/resources/IT/mod_2/relativepos.html)
 
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
