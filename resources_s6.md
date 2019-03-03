@@ -30,9 +30,19 @@ permalink: /resources-s6/
 
 ## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
-
+# Series 1:
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
+
+# Programs:
+* [autocomplete.html](/year3/resources/IT/mod_1/autocomplete.html)
+* [form.html](/year3/resources/IT/mod_1/form.html)
+* [horline.html](/year3/resources/IT/mod_1/horline.html)
+* [internlink.html](/year3/resources/IT/mod_1/internlink.html)
+* [newform.html](/year3/resources/IT/mod_1/newform.html)
+* [structele.html](/year3/resources/IT/mod_1/structele.html)
+* [table.html](/year3/resources/IT/mod_1/table.html)
+* [webpage.html](/year3/resources/IT/mod_1/webpage.html)
 
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
