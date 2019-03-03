@@ -32,6 +32,7 @@ permalink: /resources-s6/
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
 
 * [Module 1][it-mod-1]
+* [Module 2][it-mod-2]
 
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
@@ -46,6 +47,7 @@ permalink: /resources-s6/
 
 [it-syll]: /resources/IT/IT302_Internet_technology.pdf
 [it-mod-1]: /resources/IT/Module_I.pptx
+[it-mod-2]: /resources/IT/Module_II.pptx
 
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
 
