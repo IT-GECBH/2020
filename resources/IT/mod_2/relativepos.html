@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<!-- Fig. 4.10: positioning2.html -->
+<!-- Relative positioning of elements. -->
+<html>
+<head>
+<meta charset = "utf-8">
+<title>Relative Positioning</title>
+<style type = "text/css">
+ p { font-size: 1.3em;
+	 font-family: verdana, arial, sans-serif; }
+span { color: red;
+ font-size: .6em;
+ height: 1em; }
+.super { position: relative;
+top: -1ex; }
+.sub { position: relative;
+bottom: -1ex; }
+.shiftleft { position: relative;
+left: -10ex; }
+.shiftright { position: relative;
+right: -1ex; }
+ </style>
+ </head>
+ <body>
+ <p>The text at the end of this sentence
+<span class = "super">is in superscript</span>.
+<span> Shijin </span> 
+<div> Knox </div> knox is a good boy
+<span> Knox </span>
+</p>
+ <p>The text at the end of this sentence
+<span class = "sub">is in superscript</span>.</p>
+
+ <p>The text at the end of this sentence
+<span class = "shiftleft">is in superscript</span>.</p>
+
+ <p>The text at the end of this sentence
+<span class = "shiftright">is in superscript</span>.</p>
+ </body>
+ </html>

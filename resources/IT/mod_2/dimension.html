@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<!-- Fig. 4.12: width.html -->
+<!-- Element dimensions and text alignment. -->
+<html>
+<head>
+<meta charset = "utf-8">
+<title>Box Dimensions</title>
+<style type = "text/css">
+ p { background-color: lightskyblue;
+ margin-bottom: .5em;
+ font-family: arial, helvetica, sans-serif; }
+ </style>
+ </head>
+ <body>
+ <p style = "width: 20%">
+ Here is some
+ text that goes in a box which is
+ set to stretch across twenty percent
+ of the width of the screen.</p>
+
+<p style = "width: 80%; text-align: right"> <!-- right / left also possible -->
+ Here is some CENTERED text that goes in a box
+ which is set to stretch across eighty percent of
+ the width of the screen.</section>
+
+<p style = "width: 20%; height: 150px; overflow: scroll">
+ This box is only twenty percent of
+ the width and has a fixed height.
+ What do we do if it overflows? Set the
+ overflow property to scroll!</p>
+ </body>
+ </html>
