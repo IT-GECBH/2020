@@ -10,18 +10,20 @@ layout: default
   {{ content }}
 
   {%- include time_table.html -%}
-  <h2 class="post-list-heading">Subjects</h2>
-  <ul style="list-style-type:none;">
-    <li>IT: Internet Technology</li>
-    <li>CD: Compiler Design</li>
-    <li>DWM: Data Warehousing & Mining</li>
-    <li>DS: Distributed Systems</li>
-    <li>POM: Principles of Management</li>
-    <li>ADBMS: Advanced DBMS</li>
-    <li>IT Lab: Internet Technology Lab</li>
-    <li>CN Lab: Computer Networks Lab</li>
-    <li>C-Exam: Comprehensive Exam</li>
-  </ul>
+  <details>
+    <summary><h2 class="post-list-heading">Subjects</h2></summary>
+    <ul style="list-style-type:none;">
+      <li>IT: Internet Technology</li>
+      <li>CD: Compiler Design</li>
+      <li>DWM: Data Warehousing & Mining</li>
+      <li>DS: Distributed Systems</li>
+      <li>POM: Principles of Management</li>
+      <li>ADBMS: Advanced DBMS</li>
+      <li>IT Lab: Internet Technology Lab</li>
+      <li>CN Lab: Computer Networks Lab</li>
+      <li>C-Exam: Comprehensive Exam</li>
+    </ul>
+  </details>
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
