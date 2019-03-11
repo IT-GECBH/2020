@@ -6,6 +6,8 @@ permalink: /resources-s6/
 
 ## **Advanced DBMS**
 [Syllabus][adbms-syll] *( Credits: 3 )*  <br />
+# Series 1:
+* [Distributed Database Concepts][adbms-ddc]
 
 ## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
@@ -90,6 +92,7 @@ permalink: /resources-s6/
 [ds-syll]: /resources/DS/IT306_Distributed_Systems.pdf
 
 [adbms-syll]: /resources/ADMS/IT366_Advanced_Database_Management_Systems.pdf
+[adbms-ddc]: /resources/ADMS/Chapter23_Distributed_DB_concepts.pptx
 
 [pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
 
