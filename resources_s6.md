@@ -36,6 +36,7 @@ permalink: /resources-s6/
 # Series 1:
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
+* [Module 3][it-mod-3]
 
 # Code:
 # Mod 1:
@@ -78,6 +79,7 @@ permalink: /resources-s6/
 [it-syll]: /resources/IT/IT302_Internet_technology.pdf
 [it-mod-1]: /resources/IT/Module_I.pptx
 [it-mod-2]: /resources/IT/Module_II.pptx
+[it-mod-3]: /resources/IT/Module_III.pptx
 
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
 
