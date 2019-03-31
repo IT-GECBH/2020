@@ -8,6 +8,7 @@ permalink: /resources-s6/
 [Syllabus][adbms-syll] *( Credits: 3 )*  <br />
 # Series 1:
 * [Distributed Database Concepts][adbms-ddc]
+* [Pros and Cons_of_DDB and OODB][adbms-pros]
 
 ## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
@@ -93,6 +94,7 @@ permalink: /resources-s6/
 
 [adbms-syll]: /resources/ADMS/IT366_Advanced_Database_Management_Systems.pdf
 [adbms-ddc]: /resources/ADMS/Chapter23_Distributed_DB_concepts.pptx
+[adbms-pros]: /resources/ADMS/Pros&Cons_of_DDB_OODB.docx
 
 [pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
 
