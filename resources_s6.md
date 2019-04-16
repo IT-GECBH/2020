@@ -65,6 +65,34 @@ permalink: /resources-s6/
 * [media.html](/year3/resources/IT/mod_2/media.html)
 * [relativepos.html](/year3/resources/IT/mod_2/relativepos.html)
 
+# Mod 3:
+* [0_compare.html](/year3/resources/IT/mod_3/0_compare.html)
+* [0_dowhile.html](/year3/resources/IT/mod_3/0_dowhile.html)
+* [0_for.html](/year3/resources/IT/mod_3/0_for.html)
+* [0_forin.html](/year3/resources/IT/mod_3/0_forin.html)
+* [0_labelbreak.html](/year3/resources/IT/mod_3/0_labelbreak.html)
+* [0_labelcontinue.html](/year3/resources/IT/mod_3/0_labelcontinue.html)
+* [0_switch.html](/year3/resources/IT/mod_3/0_switch.html)
+* [0_while.html](/year3/resources/IT/mod_3/0_while.html)
+* [1_function.html](/year3/resources/IT/mod_3/1_function.html)
+* [1_recursion.html](/year3/resources/IT/mod_3/1_recursion.html)
+* [1_scope.html](/year3/resources/IT/mod_3/1_scope.html)
+* [add.html](/year3/resources/IT/mod_3/add.html)
+* [alert.html](/year3/resources/IT/mod_3/alert.html)
+* [breakkk.html](/year3/resources/IT/mod_3/breakkk.html)
+* [docobj1.html](/year3/resources/IT/mod_3/docobj1.html)
+* [docobj.html](/year3/resources/IT/mod_3/docobj.html)
+* [file.txt](/year3/resources/IT/mod_3/file.txt)
+* [formvalidation.html](/year3/resources/IT/mod_3/formvalidation.html)
+* [helloworld.html](/year3/resources/IT/mod_3/helloworld.html)
+* [loop.html](/year3/resources/IT/mod_3/loop.html)
+* [modify.html](/year3/resources/IT/mod_3/modify.html)
+* [prompt.html](/year3/resources/IT/mod_3/prompt.html)
+* [script.js](/year3/resources/IT/mod_3/script.js)
+* [script_sort.js](/year3/resources/IT/mod_3/script_sort.js)
+* [search.html](/year3/resources/IT/mod_3/search.html)
+* [sort.html](/year3/resources/IT/mod_3/sort.html)
+
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
 
