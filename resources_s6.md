@@ -11,8 +11,8 @@ permalink: /resources-s6/
 * [Pros and Cons_of_DDB and OODB][adbms-pros]
 * [Distributed Databases][adbms-ddbs]
 * [Object and Object Relational Databases 1][adbms-obj-1]
-* [Object Based Databases][adbms-objectbased]
 * [Object and Object Relational Databases 2][adbms-obj-2]
+* [Object Based Databases][adbms-objectbased]
 * [Active deductive database][adbms-active]
 
 ## **Compiler Design**
