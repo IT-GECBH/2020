@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>Performing Comparisons</title>
+
+<script type = "text/javascript">
+
+var first, // first string entered by user
+second, // second string entered by user
+number1, // first number to compare
+number2; // second number to compare
+
+// read first number from user as a string
+first = window.prompt( "Enter first integer:", "0" );
+
+// read second number from user as a string
+second = window.prompt( "Enter second integer:", "0" );
+//convert numbers from strings to integers
+number1 = parseInt( first );
+number2 = parseInt( second );
+
+document.writeln( "<h1>Comparison Results</h1>" );
+document.writeln(
+"<table border = \"1\" width = \"100%\">" );
+
+if ( number1 === "100" )
+document.writeln( "<tr><td>" + number1 + " == " +
+number2 + "</td><td></td></tr>" );
+
+if ( number1 != number2 )
+document.writeln( "<tr><td>" + number1 + " != " +
+number2 + "</td></TR>" );
+
+if ( number1 < number2 )
+document.writeln( "<tr><td>" + number1 + " < " +
+number2 + "</td></tr>" );
+
+if ( number1 > number2 )
+document.writeln( "<tr><td>" + number1 + " > " +
+number2 + "</td></tr>" );
+
+if ( number1 <= number2 )
+document.writeln( "<tr><td>" + number1 + " <= " +
+number2 + "</td></tr>" );
+
+if ( number1 >= number2 )
+document.writeln( "<tr><td>" + number1 + " >= " +
+number2 + "</td></tr>" );
+
+// Display results
+document.writeln( "</table>" );
+
+if ( number1 >= 90 )   document.writeln( "First number is greater than 90" ); 
+else if ( number1 >= 80 )   document.writeln( "First number is greater than 80" ); 
+else if ( number1 >= 70 )   document.writeln( "First number is greater than 70" ); 
+else   document.writeln( "First number is lesser than 70" );
+
+</script>
+</head>
+<body>
+<p>Click Refresh (or Reload) to run the script again</p>
+</body>
+</html>

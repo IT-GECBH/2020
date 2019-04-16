@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Using the break Statement with a Label</title>
+
+<script type = "text/javascript">
+<!--
+stop: 
+	{ // labeled compound statement
+		for ( var row = 1; row <= 10; ++row ) 
+		{
+			for ( var column = 1; column <= 5 ; ++column ) 
+			{
+				if ( row == 5 )
+					break stop; // jump to end of stop block
+				document.write( "* " );
+			}
+			document.writeln( "<br />" );
+		}
+		// the following line is skipped
+		document.writeln( "This line should not print" );
+	}
+
+document.writeln( "End of script" );
+// -->
+</script>
+
+</head><body></body>
+</html>

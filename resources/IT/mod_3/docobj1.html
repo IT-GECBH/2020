@@ -1,0 +1,22 @@
+<html>
+<body>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+</ul>
+
+<p>Click the button to change the text of the first list item (index 0).</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+    var list = document.getElementsByTagName("UL")[0];
+    list.getElementsByTagName("LI")[0].innerHTML = "Milk";
+}
+</script>
+
+</body>
+</html>
+

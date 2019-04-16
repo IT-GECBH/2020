@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Switching between XHTML List Formats</title>
+
+<script type = "text/javascript">
+//<!-
+var choice, // user’s choice
+startTag, // starting list item tag
+endTag, // ending list item tag
+ validInput = true, // indicates if input is valid
+ listType; // list type as a string
+
+ choice = window.prompt( "Select a list style:\n" + "1 (bullet), 2 (numbered), 3 (lettered)", "1" );
+
+ switch ( choice ) {
+ case "1":
+ startTag = "<ul>";
+ endTag = "</ul>";
+ listType = "<h1>Bullet List</h1>";
+ break;
+ case "2":
+ startTag = "<ol>";
+ endTag = "</ol>";
+ listType = "<h1>Ordered List: Numbered</h1>";
+ break;
+case "3":
+ startTag = "<ol type = \"A\">";
+ endTag = "</ol>";
+ listType = "<h1>Ordered List: Lettered</h1>";
+ break;
+ default:
+ validInput = false;
+ }
+
+ if ( validInput == true ) {
+ document.writeln( listType + startTag );
+
+ for ( var i = 1; i <= 3; ++i )
+ document.writeln( "<li>List item " + i + "</li>" );
+
+ document.writeln( endTag );
+ }
+ else
+ document.writeln( "Invalid choice: " + choice );
+
+ </script>
+
+ </head>
+ <body>
+ <p>Click Refresh (or Reload) to run the script again</p>
+ </body>
+ </html>

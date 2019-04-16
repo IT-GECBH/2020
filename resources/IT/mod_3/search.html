@@ -1,0 +1,17 @@
+<html>
+<body>
+
+<p>Click the button to display the last position of the element "Apple":</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var fruits = ["Banana","Orange","Apple","Mango","Banana","Orange","Apple","Mango"];
+    var a = fruits.lastIndexOf("Apple");
+    var x = document.getElementById("demo");
+    x.innerHTML = a;
+}
+</script>

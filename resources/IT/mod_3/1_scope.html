@@ -1,0 +1,58 @@
+  <?xml version = "1.0"?> 
+ 
+  <!-- Fig. 10.7: scoping.html    --> 
+  <!-- Local and Global Variables --> 
+ 
+  <html xmlns = "http://www.w3.org/1999/xhtml"> 
+   <head> 
+       <title>A Scoping Example</title> 
+  
+       <script type = "text/javascript"> 
+          <!--
+          var x = 1;      // global variable 
+  
+          function start() 
+          { 
+             var x = 5;   // variable local to function start 
+  
+             document.writeln( "local x in start is " + x ); 
+  
+             functionA(); // functionA has local x 
+             functionB(); // functionB uses global variable x 
+             functionA(); // functionA reinitializes local x 
+             functionB(); // global variable x retains its value 
+  
+             document.writeln( 
+                "<p>local x in start is " + x + "</p>" ); 
+          } 
+  
+          function functionA() 
+          { 
+             var x = 25;  // initialized each time 
+                          // functionA is called 
+  
+             document.writeln( "<p>local x in functionA is " + 
+                               x + " after entering functionA" ); 
+             ++x; 
+             document.writeln( "<br />local x in functionA is " + 
+                x + " before exiting functionA" + "</p>" ); 
+          } 
+  
+          function functionB() 
+          { 
+             document.writeln( "<p>global variable x is " + x + 
+                " on entering functionB" ); 
+             x *= 10; 
+             document.writeln( "<br />global variable x is " + 
+                x + " on exiting functionB"  + "</p>" ); 
+          } 
+          // --> 
+       </script> 	   
+		
+  </head> 
+  <body onload = "start()">
+  <script type = "text/javascript">
+			document.writeln("***************");
+		</script>
+  </body> 
+</html>

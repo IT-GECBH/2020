@@ -1,0 +1,51 @@
+<?xml version = "1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!-- Class Average Program -->
+
+<html xmlns = "http://www.w3.org/1999/xhtml">
+<head>
+<title>Class Average Program</title>
+
+<script type = "text/javascript">
+
+var total, // sum of grades
+gradeCounter, // number of grades entered
+gradeValue, // grade value
+average, // average of all grades
+grade; // grade typed by user
+// Initialization Phase
+total = 0; // clear total
+gradeCounter = 1; // prepare to loop
+
+// Processing Phase
+while ( gradeCounter <= 10 ) { // loop 10 times
+
+// prompt for input and read grade from user
+grade = window.prompt( "Enter integer grade:", "0" );
+
+// convert grade from a string to an integer
+gradeValue = parseInt( grade );
+
+// add gradeValue to total
+total = total + gradeValue;
+
+// add 1 to gradeCounter
+gradeCounter = gradeCounter + 1;
+}
+
+// Termination Phase
+average = total / 10; // calculate the average
+
+// display average of exam grades
+document.writeln(
+"<h1>Class average is " + average + "</h1>" );
+
+</script>
+
+</head>
+<body>
+<p>Click Refresh (or Reload) to run the script again<p>
+</body>
+</html>

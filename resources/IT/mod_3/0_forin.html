@@ -1,0 +1,30 @@
+ <?xml version = "1.0"?> 
+<!-- Fig. 11.12: InitArray3.html          --> 
+<!-- Initializing Multidimensional Arrays --> 
+
+<html xmlns = "http://www.w3.org/1999/xhtml"> 
+  <head> 
+      <title>Initializing Multidimensional Arrays</title> 
+      <script type = "text/javascript"> 
+        // <!-
+        function start() 
+        { 
+           var array1 = [ 10, 20, 30 ]     // first row 
+           outputArray( "Values in array1 by row", array1 ); 
+        } 
+  
+        function outputArray( header, theArray ) 
+        { 
+           document.writeln( "<h2>" + header + "</h2>" );     
+           for ( var i in theArray ) {
+                 document.write( theArray[ i ]+ " " );
+              document.writeln( "<br />" ); 
+           }
+           document.writeln( "</tt>" ); 
+        } 
+        // --> 
+     </script> 
+
+  </head><body onload = "start()"></body> 
+</html>
+
