@@ -9,6 +9,11 @@ permalink: /resources-s6/
 # Series 1:
 * [Distributed Database Concepts][adbms-ddc]
 * [Pros and Cons_of_DDB and OODB][adbms-pros]
+* [Distributed Databases][adbms-ddbs]
+* [Object and Object Relational Databases 1][adbms-obj-1]
+* [Object Based Databases][adbms-objectbased]
+* [Object and Object Relational Databases 2][adbms-obj-2]
+* [Active deductive database][adbms-active]
 
 ## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
@@ -125,6 +130,11 @@ permalink: /resources-s6/
 [adbms-syll]: /resources/ADMS/IT366_Advanced_Database_Management_Systems.pdf
 [adbms-ddc]: /resources/ADMS/Chapter23_Distributed_DB_concepts.pptx
 [adbms-pros]: /resources/ADMS/Pros&Cons_of_DDB_OODB.docx
+[adbms-ddbs]: /year3/resources/IT/mod_3/Distributed_Databases.ppt
+[adbms-obj-1]: /year3/resources/IT/mod_3/object_relational_database.ppt
+[adbms-objectbased]: /year3/resources/IT/mod_3/Object_Based_Databases.ppt
+[adbms-obj-2]: /year3/resources/IT/mod_3/ObjectandObjectRelationalDatabases.ppt
+[adbms-active]: /year3/resources/IT/mod_3/active_deductive_database.pptx
 
 [pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
 
