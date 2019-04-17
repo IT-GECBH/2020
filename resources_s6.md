@@ -6,7 +6,7 @@ permalink: /resources-s6/
 
 ## **Advanced DBMS**
 [Syllabus][adbms-syll] *( Credits: 3 )*  <br />
-# Series 1:
+
 * [Distributed Database Concepts][adbms-ddc]
 * [Pros and Cons_of_DDB and OODB][adbms-pros]
 * [Distributed Databases][adbms-ddbs]
