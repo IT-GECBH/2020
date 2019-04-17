@@ -20,7 +20,7 @@ permalink: /resources-s6/
 
 * [Scope.pdf](/year3/resources/SPM/Scope.pdf)
 * [Agile.pdf](/year3/resources/SPM/Agile.pdf)
-* [Layered approach.pptx](/year3/resources/SPM/Layered approach.pptx)
+* [Layered approach.pptx](/year3/resources/SPM/Layered-approach.pptx)
 * [Chapter24.pdf](/year3/resources/SPM/Chapter24.pdf)
 * [Chapter_25.pdf](/year3/resources/SPM/Chapter_25.pdf)
 * [Chapter26.pdf](/year3/resources/SPM/Chapter26.pdf)
