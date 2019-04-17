@@ -30,6 +30,7 @@ permalink: /resources-s6/
 # Series 1:
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
+<br />
 # Series 2:
 * [Module 3][it-mod-3]
 
