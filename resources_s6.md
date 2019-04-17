@@ -15,6 +15,16 @@ permalink: /resources-s6/
 * [Object Based Databases][adbms-objectbased]
 * [Active deductive database][adbms-active]
 
+## **Software Project Management**
+[Syllabus][spm-syll] *( Credits: 3 )* <br />
+
+* [Scope.pdf](/year3/resources/SPM/Scope.pdf)
+* [Agile.pdf](/year3/resources/SPM/Agile.pdf)
+* [Layered approach.pptx](/year3/resources/SPM/Layered approach.pptx)
+* [Chapter24.pdf](/year3/resources/SPM/Chapter24.pdf)
+* [Chapter_25.pdf](/year3/resources/SPM/Chapter_25.pdf)
+* [Chapter26.pdf](/year3/resources/SPM/Chapter26.pdf)
+
 ## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
 
@@ -100,9 +110,6 @@ permalink: /resources-s6/
 
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
-
-## **Software Project Management**
-[Syllabus][spm-syll] *( Credits: 3 )* <br />
 
 ## **Networks Lab**
 * [Lab Exercises][net-lab-ex]
