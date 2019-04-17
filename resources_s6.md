@@ -18,12 +18,12 @@ permalink: /resources-s6/
 ## **Software Project Management**
 [Syllabus][spm-syll] *( Credits: 3 )* <br />
 
-* [Scope.pdf](/year3/resources/SPM/Scope.pdf)
-* [Agile.pdf](/year3/resources/SPM/Agile.pdf)
-* [Layered approach.pptx](/year3/resources/SPM/Layered-approach.pptx)
-* [Chapter 24.pdf](/year3/resources/SPM/Chapter24.pdf)
-* [Chapter 25.pdf](/year3/resources/SPM/Chapter_25.pdf)
-* [Chapter 26.pdf](/year3/resources/SPM/Chapter26.pdf)
+* [Scope](/year3/resources/SPM/Scope.pdf)
+* [Agile](/year3/resources/SPM/Agile.pdf)
+* [Layered approach](/year3/resources/SPM/Layered-approach.pptx)
+* [Project Management Concepts](/year3/resources/SPM/Chapter24.pdf)
+* [Process and Project Metrics](/year3/resources/SPM/Chapter_25.pdf)
+* [Estimation for Software Projects](/year3/resources/SPM/Chapter26.pdf)
 
 ## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
