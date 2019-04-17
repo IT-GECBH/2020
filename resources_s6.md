@@ -27,11 +27,9 @@ permalink: /resources-s6/
 
 ## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
-# Series 1:
+
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
-
-# Series 2:
 * [Module 3][it-mod-3]
 
 # Code:
