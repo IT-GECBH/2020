@@ -25,32 +25,12 @@ permalink: /resources-s6/
 * [Process and Project Metrics](/year3/resources/SPM/Chapter_25.pdf)
 * [Estimation for Software Projects](/year3/resources/SPM/Chapter26.pdf)
 
-## **Compiler Design**
-[Syllabus][cd-syll] *( Credits: 3 )*  <br />
-
-## **Data Warehousing and Mining**
-[Syllabus][dwm-syll] *( Credits: 3 )*  <br />
-# Series 1:
-* [Data Warehousing][data-ware-ppt]
-* [Tutorial 1][dwm-tut-1]
-* [Data Processing][data-proc-ppt]
-* [Tutorial 2][dwm-tut-2]
-* [Classification][data-class-ppt]
-* [Tutorial 3][dwm-tut-3]
-* [Linear Regression][dwm-linear]
-
-# Some useful links:
-* [https://www.futurelearn.com/courses/data-mining-with-weka](https://www.futurelearn.com/courses/data-mining-with-weka) *(for tutorial 2)*
-* [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/) *(for tutorial 2)*
-
-## **Distributed Systems**
-[Syllabus][ds-syll] *( Credits: 3 )*  <br />
-
 ## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
 # Series 1:
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
+# Series 2:
 * [Module 3][it-mod-3]
 
 # Code:
@@ -107,6 +87,27 @@ permalink: /resources-s6/
 * [script_sort.js](/year3/resources/IT/mod_3/script_sort.js)
 * [search.html](/year3/resources/IT/mod_3/search.html)
 * [sort.html](/year3/resources/IT/mod_3/sort.html)
+
+## **Compiler Design**
+[Syllabus][cd-syll] *( Credits: 3 )*  <br />
+
+## **Data Warehousing and Mining**
+[Syllabus][dwm-syll] *( Credits: 3 )*  <br />
+# Series 1:
+* [Data Warehousing][data-ware-ppt]
+* [Tutorial 1][dwm-tut-1]
+* [Data Processing][data-proc-ppt]
+* [Tutorial 2][dwm-tut-2]
+* [Classification][data-class-ppt]
+* [Tutorial 3][dwm-tut-3]
+* [Linear Regression][dwm-linear]
+
+# Some useful links:
+* [https://www.futurelearn.com/courses/data-mining-with-weka](https://www.futurelearn.com/courses/data-mining-with-weka) *(for tutorial 2)*
+* [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/) *(for tutorial 2)*
+
+## **Distributed Systems**
+[Syllabus][ds-syll] *( Credits: 3 )*  <br />
 
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
