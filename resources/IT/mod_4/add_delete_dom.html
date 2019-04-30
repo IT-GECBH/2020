@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Learning the DOM</title>
+	<script>
+	function processDom()
+	{
+		const paragraph = document.createElement('p');
+		var newContent = document.createTextNode("Hi there and greetings!");
+		paragraph.appendChild(newContent);
+		
+		var currentDiv = document.getElementById("heading1"); 
+		document.body.insertBefore(paragraph, currentDiv);
+		
+		// Remove one node
+		const todoList = document.querySelector('body');
+		todoList.removeChild(currentDiv);
+	}
+	</script>
+  </head>
+
+  <body onload = "processDom()">
+    <h1 id="heading1">Document Object Model</h1>
+  </body>
+
+</html>

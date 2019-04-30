@@ -1,0 +1,35 @@
+<!-- Fig. 13.3: draw.html -->
+<!-- A simple drawing program. -->
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Mouse move sample</title>
+</head>
+<style>
+#animate {
+  width: 100px;
+  height:100px;
+  background-color: red;
+}
+</style>
+<body>
+	<div id="animate"></div>
+	<script type="text/javascript">
+		document.getElementById("animate").addEventListener("mousemove", movingMyMouse);
+		var counter=0;
+		function movingMyMouse(e)
+		{
+			++counter;
+			document.getElementById("animate").innerHTML=counter;
+			if(e.ctrlKey)
+			{				
+				e.target.setAttribute("style", "background-color: blue");
+			} 
+			if(e.shiftKey)
+			{
+				e.target.setAttribute("style", "background-color: green");
+			}
+		}
+	</script>
+</body>
+</html>
