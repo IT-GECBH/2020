@@ -14,6 +14,9 @@ permalink: /resources-s6/
 * [Object and Object Relational Databases 2][adbms-obj-2]
 * [Object Based Databases][adbms-objectbased]
 * [Active deductive database][adbms-active]
+* [Optimization][adbms-opti]
+* [Tuning][adbms-tuning]
+* [Database Security][adbms-security]
 
 ## **Software Project Management**
 [Syllabus][spm-syll] *( Credits: 3 )* <br />
@@ -165,6 +168,9 @@ permalink: /resources-s6/
 [adbms-objectbased]: /year3/resources/IT/mod_3/Object_Based_Databases.ppt
 [adbms-obj-2]: /year3/resources/IT/mod_3/ObjectandObjectRelationalDatabases.ppt
 [adbms-active]: /year3/resources/IT/mod_3/active_deductive_database.pptx
+[adbms-opti]: /year3/resources/IT/mod_3/Chapter15_Optimization.ppt
+[adbms-tuning]: /year3/resources/IT/mod_3/Chapter16_Tuning.ppt
+[adbms-security]: /year3/resources/IT/mod_3/Chapter30_Database_Security.pptx
 
 [pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
 
