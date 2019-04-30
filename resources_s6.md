@@ -87,6 +87,27 @@ permalink: /resources-s6/
 * [search.html](/year3/resources/IT/mod_3/search.html)
 * [sort.html](/year3/resources/IT/mod_3/sort.html)
 
+# Mod 4:
+* [add_delete_dom.html](/year3/resources/IT/mod_4/add_delete_dom.html)
+* [add_delete_dom_latest.html](/year3/resources/IT/mod_4/add_delete_dom_latest.html)
+* [bubble.html](/year3/resources/IT/mod_4/bubble.html)
+* [collections.html](/year3/resources/IT/mod_4/collections.html)
+* [coverviewer.html](/year3/resources/IT/mod_4/coverviewer.html)
+* [dom1.html](/year3/resources/IT/mod_4/dom1.html)
+* [dom.html](/year3/resources/IT/mod_4/dom.html)
+* [dom_log.html](/year3/resources/IT/mod_4/dom_log.html)
+* [draw.html](/year3/resources/IT/mod_4/draw.html)
+* [dynstyle.html](/year3/resources/IT/mod_4/dynstyle.html)
+* [form_focus.html](/year3/resources/IT/mod_4/form_focus.html)
+* [form_submit_reset.html](/year3/resources/IT/mod_4/form_submit_reset.html)
+* [image_collection_1.html](/year3/resources/IT/mod_4/image_collection_1.html)
+* [image_collection.html](/year3/resources/IT/mod_4/image_collection.html)
+* [load_bubble.html](/year3/resources/IT/mod_4/load_bubble.html)
+* [load.html](/year3/resources/IT/mod_4/load.html)
+* [mousemove.html](/year3/resources/IT/mod_4/mousemove.html)
+* [mouseover_out.html](/year3/resources/IT/mod_4/mouseover_out.html)
+* [move_dynstyle.html](/year3/resources/IT/mod_4/move_dynstyle.html)
+
 ## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
 
