@@ -163,14 +163,14 @@ permalink: /resources-s6/
 [adbms-syll]: /resources/ADMS/IT366_Advanced_Database_Management_Systems.pdf
 [adbms-ddc]: /resources/ADMS/Chapter23_Distributed_DB_concepts.pptx
 [adbms-pros]: /resources/ADMS/Pros&Cons_of_DDB_OODB.docx
-[adbms-ddbs]: /year3/resources/IT/mod_3/Distributed_Databases.ppt
-[adbms-obj-1]: /year3/resources/IT/mod_3/object_relational_database.ppt
-[adbms-objectbased]: /year3/resources/IT/mod_3/Object_Based_Databases.ppt
-[adbms-obj-2]: /year3/resources/IT/mod_3/ObjectandObjectRelationalDatabases.ppt
-[adbms-active]: /year3/resources/IT/mod_3/active_deductive_database.pptx
-[adbms-opti]: /year3/resources/IT/mod_3/Chapter15_Optimization.ppt
-[adbms-tuning]: /year3/resources/IT/mod_3/Chapter16_Tuning.ppt
-[adbms-security]: /year3/resources/IT/mod_3/Chapter30_Database_Security.pptx
+[adbms-ddbs]: /year3/resources/ADMS/mod_3/Distributed_Databases.ppt
+[adbms-obj-1]: /year3/resources/ADMS/mod_3/object_relational_database.ppt
+[adbms-objectbased]: /year3/resources/ADMS/mod_3/Object_Based_Databases.ppt
+[adbms-obj-2]: /year3/resources/ADMS/mod_3/ObjectandObjectRelationalDatabases.ppt
+[adbms-active]: /year3/resources/ADMS/mod_3/active_deductive_database.pptx
+[adbms-opti]: /year3/resources/ADMS/mod_3/Chapter15_Optimization.ppt
+[adbms-tuning]: /year3/resources/ADMS/mod_3/Chapter16_Tuning.ppt
+[adbms-security]: /year3/resources/ADMS/mod_3/Chapter30_Database_Security.pptx
 
 [pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
 
