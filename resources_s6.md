@@ -31,6 +31,7 @@ permalink: /resources-s6/
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
 * [Module 3][it-mod-3]
+* [Module 4][it-mod-4]
 
 # Code:
 # Mod 1:
@@ -141,6 +142,7 @@ permalink: /resources-s6/
 [it-mod-1]: /resources/IT/Module_I.pptx
 [it-mod-2]: /resources/IT/Module_II.pptx
 [it-mod-3]: /resources/IT/Module_III.pptx
+[it-mod-4]: /resources/IT/Module_IV.pptx
 
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
 
