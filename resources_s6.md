@@ -117,6 +117,10 @@ permalink: /resources-s6/
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][cd-prev]
 
+* [Bottom up parsing][cd-bottomup]
+* [LR parsing techniques][cd-lr]
+
+
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
 # Series 1:
@@ -152,6 +156,8 @@ permalink: /resources-s6/
 
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
 [cd-prev]: /resources/CD/CS304-A.pdf
+[cd-bottomup]: /resources/CD/bottomup.pdf
+[cd-lr]: /resources/CD/lr-parsing.ppt
 
 [dwm-syll]: /resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
 [data-ware-ppt]: /resources/DWM/data_warehousing.ppt
