@@ -30,6 +30,7 @@ permalink: /resources-s6/
 
 ## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
+Previous Year Question paper: [Regular][it-prev-r]
 
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
@@ -142,6 +143,7 @@ permalink: /resources-s6/
 
 
 [it-syll]: /resources/IT/IT302_Internet_technology.pdf
+[it-prev-r]: /resources/IT/IT302-A.pdf
 [it-mod-1]: /resources/IT/Module_I.pptx
 [it-mod-2]: /resources/IT/Module_II.pptx
 [it-mod-3]: /resources/IT/Module_III.pptx
