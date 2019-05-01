@@ -30,7 +30,7 @@ permalink: /resources-s6/
 
 ## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
-[Previous Year Question paper][it-prev-r]
+[Previous Year Question Paper][it-prev-r]
 
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
