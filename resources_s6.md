@@ -30,7 +30,7 @@ permalink: /resources-s6/
 
 ## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
-Previous Year Question paper: [Regular][it-prev-r]
+[Previous Year Question paper][it-prev-r]
 
 * [Module 1][it-mod-1]
 * [Module 2][it-mod-2]
@@ -115,6 +115,7 @@ Previous Year Question paper: [Regular][it-prev-r]
 
 ## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
+[Previous Year Question Paper][cd-prev]
 
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
@@ -150,6 +151,7 @@ Previous Year Question paper: [Regular][it-prev-r]
 [it-mod-4]: /resources/IT/Module_IV.pptx
 
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
+[cd-prev]: /resources/CD/CS304-A.pdf
 
 [dwm-syll]: /resources/DWM/IT304_Data_Warehousing_and_Mining.pdf
 [data-ware-ppt]: /resources/DWM/data_warehousing.ppt
