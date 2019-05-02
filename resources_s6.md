@@ -138,7 +138,7 @@ permalink: /resources-s6/
 
 ## **Distributed Systems**
 [Syllabus][ds-syll] *( Credits: 3 )*  <br />
-* [Previous Year Question Paper][ds-prev]
+[Previous Year Question Paper][ds-prev]
 
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
