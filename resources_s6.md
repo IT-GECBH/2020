@@ -138,6 +138,7 @@ permalink: /resources-s6/
 
 ## **Distributed Systems**
 [Syllabus][ds-syll] *( Credits: 3 )*  <br />
+* [Previous Year Question Paper][ds-prev]
 
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
@@ -169,6 +170,7 @@ permalink: /resources-s6/
 [dwm-linear]: /resources/DWM/linearregression.pdf
 
 [ds-syll]: /resources/DS/IT306_Distributed_Systems.pdf
+[ds-prev]: /resources/DS/IT306-A.pdf
 
 [adbms-syll]: /resources/ADMS/IT366_Advanced_Database_Management_Systems.pdf
 [adbms-ddc]: /resources/ADMS/Chapter23_Distributed_DB_concepts.pptx
