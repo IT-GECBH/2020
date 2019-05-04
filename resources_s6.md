@@ -17,7 +17,7 @@ permalink: /resources-s6/
 * [Optimization][adbms-opti]
 * [Tuning][adbms-tuning]
 * [Database Security][adbms-security]
-* [Parallel Databases I][adbms-para-1]
+* [Parallel Databases][adbms-para-1]
 * [Database System Architectures][adbms-dat-sys-arch]
 
 ## **Software Project Management**
