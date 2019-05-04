@@ -13,7 +13,7 @@ permalink: /resources-s6/
 * [Object and Object Relational Databases 1][adbms-obj-1]
 * [Object and Object Relational Databases 2][adbms-obj-2]
 * [Object Based Databases][adbms-objectbased]
-* [Enhanced Data Models: Introduction to Active, Temporal, Spatial, Multimedia,and Deductive Databases][adbms-active]
+* [Enhanced Data Models: Introduction to Active, Temporal, Spatial, Multimedia, and Deductive Databases][adbms-active]
 * [Optimization][adbms-opti]
 * [Tuning][adbms-tuning]
 * [Database Security][adbms-security]
