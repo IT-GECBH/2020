@@ -4,7 +4,7 @@ title: S6
 permalink: /resources-s6/
 ---
 
-## **Advanced DBMS**
+## **Advanced DBMS** *( Elective )*
 [Syllabus][adbms-syll] *( Credits: 3 )*  <br />
 
 * [Distributed Database Concepts][adbms-ddc]
@@ -20,7 +20,7 @@ permalink: /resources-s6/
 * [Parallel Databases][adbms-para-1]
 * [Database System Architectures][adbms-dat-sys-arch]
 
-## **Software Project Management**
+## **Software Project Management** *( Elective )*
 [Syllabus][spm-syll] *( Credits: 3 )* <br />
 
 * [Scope](/year3/resources/SPM/Scope.pdf)
