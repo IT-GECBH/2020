@@ -19,6 +19,10 @@ permalink: /resources-s6/
 * [Database Security][adbms-security]
 * [Parallel Databases][adbms-para-1]
 * [Database System Architectures][adbms-dat-sys-arch]
+* [XML][adbms-xml]
+* [Data Mining][adbms-datamining]
+* [Data Warehousing][adbms-datawarehousing]
+* [Mobile Database][adbms-mobile]
 
 ## **Software Project Management** *( Elective )*
 [Syllabus][spm-syll] *( Credits: 3 )* <br />
@@ -190,6 +194,10 @@ permalink: /resources-s6/
 [adbms-security]: /year3/resources/ADMS/Chapter30_Database_Security.pptx
 [adbms-para-1]: /year3/resources/ADMS/ch21_Parallel_Databases.ppt
 [adbms-dat-sys-arch]: /year3/resources/ADMS/ch20_Database_System_Architectures.ppt
+[adbms-xml]: /year3/resources/ADMS/Chapter27_xml.ppt
+[adbms-datamining]: /year3/resources/ADMS/Chapter28_DataMining.ppt
+[adbms-datawarehousing]: /year3/resources/ADMS/Chapter29_DataWarehousing.ppt
+[adbms-mobile]: /year3/resources/ADMS/Chapter30_MobileDataase.ppt 
 
 [pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
 [pom-prev]: /resources/POM/pom_prev.pdf
