@@ -145,6 +145,7 @@ permalink: /resources-s6/
 
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
+[Previous Year Question Paper][pom-prev]
 
 ## **Networks Lab**
 * [Lab Exercises][net-lab-ex]
@@ -191,6 +192,7 @@ permalink: /resources-s6/
 [adbms-dat-sys-arch]: /year3/resources/ADMS/ch20_Database_System_Architectures.ppt
 
 [pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
+[pom-prev]: /resources/POM/pom_prev.pdf
 
 [net-lab-ex]: /resources/CN_LAB/Lab_Exercises.pptx
 
