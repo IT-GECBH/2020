@@ -197,7 +197,7 @@ permalink: /resources-s6/
 [adbms-xml]: /year3/resources/ADMS/Chapter27_xml.ppt
 [adbms-datamining]: /year3/resources/ADMS/Chapter28_DataMining.ppt
 [adbms-datawarehousing]: /year3/resources/ADMS/Chapter29_DataWarehousing.ppt
-[adbms-mobile]: /year3/resources/ADMS/Chapter30_MobileDataase.ppt 
+[adbms-mobile]: /year3/resources/ADMS/Chapter30_MobileDatabase.ppt 
 
 [pom-syll]: /resources/POM/HS300_Principles_of_management.pdf
 [pom-prev]: /resources/POM/pom_prev.pdf
