@@ -125,6 +125,7 @@ permalink: /resources-s6/
 
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
+[Previous Year Question Paper][dwm-prev]
 # Series 1:
 * [Data Warehousing][data-ware-ppt]
 * [Tutorial 1][dwm-tut-1]
@@ -170,6 +171,7 @@ permalink: /resources-s6/
 [data-class-ppt]: /resources/DWM/classification.ppt
 [dwm-tut-3]: /resources/DWM/tutorial3_classification.pdf
 [dwm-linear]: /resources/DWM/linearregression.pdf
+[dwm-prev]: /resources/DWM/dwm_prev_ques.pdf
 
 [ds-syll]: /resources/DS/IT306_Distributed_Systems.pdf
 [ds-prev]: /resources/DS/IT306-A.pdf
