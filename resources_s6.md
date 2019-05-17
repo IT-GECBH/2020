@@ -33,6 +33,8 @@ permalink: /resources-s6/
 * [Project Management Concepts](/year3/resources/SPM/Chapter24.pdf)
 * [Process and Project Metrics](/year3/resources/SPM/Chapter_25.pdf)
 * [Estimation for Software Projects](/year3/resources/SPM/Chapter26.pdf)
+* [Module 5](/year3/resources/SPM/Module_5.pdf)
+* [Module 6](/year3/resources/SPM/Module_6.pdf)
 
 ## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
