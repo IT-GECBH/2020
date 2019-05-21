@@ -129,8 +129,15 @@ permalink: /resources-s6/
 * [LR parsing techniques][cd-lr]
 
 # Some useful links:
-* [Intermediate Languages](https://www.brainkart.com/article/Intermediate-Languages_8092/)
 * [Syntax Directed Translation](https://www.brainkart.com/article/Syntax-Directed-Translation_8153/)
+* [Intermediate Code Generation](https://www.brainkart.com/article/Intermediate-Code-Generation_8159/)
+* [Intermediate Languages](https://www.brainkart.com/article/Intermediate-Languages_8092/)
+* [Code Optimization](https://www.brainkart.com/article/Code-Optimization_8109/)
+* [Principal Sources of Optimization](https://www.brainkart.com/article/Principal-Sources-of-Optimisation_8110/)
+* [Optimization of Basic Blocks](https://www.brainkart.com/article/Optimization-of-Basic-Blocks_8112/)
+* [Issues in the design of a code generator](https://www.brainkart.com/article/Issues-in-the-design-of-a-code-generator_8100/)
+* [Target Machine](https://www.brainkart.com/article/Target-Machine_8101/)
+* [A simple code generator](https://www.brainkart.com/article/A-Simple-Code-Generator_8104/)
 
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
