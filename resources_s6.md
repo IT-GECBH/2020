@@ -130,6 +130,7 @@ permalink: /resources-s6/
 
 # Some useful links:
 * [Intermediate Languages](https://www.brainkart.com/article/Intermediate-Languages_8092/)
+* [Syntax Directed Translation](https://www.brainkart.com/article/Syntax-Directed-Translation_8153/)
 
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
