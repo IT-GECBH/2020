@@ -172,6 +172,9 @@ permalink: /resources-s6/
 [Syllabus][ds-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][ds-prev]
 
+* Mod 6 : [https://www.slideshare.net/ASHI14march/distributed-shared-memory](https://www.slideshare.net/ASHI14march/distributed-shared-memory)
+* [Distributed Mutual Exclusion](https://www.slideshare.net/sandpoonia/8-mutual-exclusion)
+
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][pom-prev]
