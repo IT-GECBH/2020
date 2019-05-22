@@ -128,6 +128,19 @@ permalink: /resources-s6/
 * [Bottom up parsing][cd-bottomup]
 * [LR parsing techniques][cd-lr]
 
+* [CD-M1-Ktunotes.in.pdf](/year3/resources/CD/CD-M1-Ktunotes.in.pdf)
+* [CD-M2-Ktunotes.in.pdf](/year3/resources/CD/CD-M2-Ktunotes.in.pdf)
+* [CD-M3-Ktunotes.in.pdf](/year3/resources/CD/CD-M3-Ktunotes.in.pdf)
+* [CD-M4-Ktunotes.in.pdf](/year3/resources/CD/CD-M4-Ktunotes.in.pdf)
+* [CD-M5-Ktunotes.in.pdf](/year3/resources/CD/CD-M5-Ktunotes.in.pdf)
+* [CS304-Compiler-Design.pdf](/year3/resources/CD/CS304-Compiler-Design.pdf)
+* [m1-cs304-compilerdesign.pdf](/year3/resources/CD/m1-cs304-compilerdesign.pdf)
+* [m2-cs304-compilerdesign.pdf](/year3/resources/CD/m2-cs304-compilerdesign.pdf)
+* [m3-cs304-compilerdesign.pdf](/year3/resources/CD/m3-cs304-compilerdesign.pdf)
+* [m4-cs304-compilerdesign.pdf](/year3/resources/CD/m4-cs304-compilerdesign.pdf)
+* [m5-cs304-compilerdesign.pdf](/year3/resources/CD/m5-cs304-compilerdesign.pdf)
+* [m6-cs304-compilerdesign.pdf](/year3/resources/CD/m6-cs304-compilerdesign.pdf)
+
 # Some useful links:
 * [Syntax Directed Translation](https://www.brainkart.com/article/Syntax-Directed-Translation_8153/)
 * [Intermediate Code Generation](https://www.brainkart.com/article/Intermediate-Code-Generation_8159/)
