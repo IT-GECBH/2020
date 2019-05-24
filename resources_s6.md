@@ -137,7 +137,6 @@ permalink: /resources-s6/
 * [sports.xml](/year3/resources/IT/mod_5/sports.xml)
 * [sports.xsl](/year3/resources/IT/mod_5/sports.xsl)
 * [style.css](/year3/resources/IT/mod_5/style.css)
-* [temp.txt](/year3/resources/IT/mod_5/temp.txt)
 * [test.xml](/year3/resources/IT/mod_5/test.xml)
 * [test.xsl](/year3/resources/IT/mod_5/test.xsl)
 
@@ -157,7 +156,6 @@ permalink: /resources-s6/
 * [student_input.html](/year3/resources/IT/mod_6/student_input.html)
 * [student_search.html](/year3/resources/IT/mod_6/student_search.html)
 * [student_search.php](/year3/resources/IT/mod_6/student_search.php)
-* [temp.txt](/year3/resources/IT/mod_6/temp.txt)
 
 ## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
