@@ -24,6 +24,9 @@ permalink: /resources-s6/
 * [Data Warehousing][adbms-datawarehousing]
 * [Mobile Database][adbms-mobile]
 
+# Some useful links:
+* [https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_environments.htm](https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_environments.htm)
+
 ## **Software Project Management** *( Elective )*
 [Syllabus][spm-syll] *( Credits: 3 )* <br />
 
