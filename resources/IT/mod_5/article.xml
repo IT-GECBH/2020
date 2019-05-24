@@ -1,0 +1,21 @@
+<?xml version = "1.0"?>
+<!-- Fig. 20.1: article.xml -->
+<!-- Article structured with XML -->
+<article>
+<title>Simple XML</title>
+
+<date>September 19, 2001</date>
+
+<author>
+	<firstName>Tem</firstName>
+	<lastName>Nieto</lastName>
+</author>
+
+<summary>XML is pretty easy.</summary>
+
+<content>Once you have mastered XHTML, XML is easily
+learned. You must remember that XML is not for
+displaying information but for managing information.
+</content>
+
+</article>

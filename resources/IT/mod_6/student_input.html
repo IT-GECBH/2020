@@ -1,0 +1,22 @@
+<html>
+<head>
+<script>  
+function validateform(){  
+	var name=document.myform.name.value;  
+	var password=document.myform.password.value;  
+	if (name==null || name==""){  
+	  alert("Name can't be blank");  
+	  return false;  
+	}else if(password.length<6){  
+	  alert("Password must be at least 6 characters long.");  
+	  return false;  
+	  }
+}  
+</script>  </head>
+<body>  
+<form name="myform" method="post" action="database.php" onsubmit="return validateform()">  
+Name: <input type="text" name="name"><br/>  
+Roll No: <input type="number" name="rollno"><br/>
+branch: <input type="text" name="branch"><br/>  
+<input type="submit" value="register">  
+</form>  </body></html>

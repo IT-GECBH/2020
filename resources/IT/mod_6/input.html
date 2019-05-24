@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<!-- Fig. 19.15: data.html -->
+<!-- Form to query a MySQL database. -->
+<html>
+<head>
+<meta charset = "utf-8">
+<title>Sample Database Query</title>
+</head>
+<body>
+<h1>Querying a MySQL database.</h1>
+<form method = "post" action = "database.php">
+<p>Select a field to display:
+<!-- add a select box containing options -->
+<!-- for SELECT query -->
+<select name = "select">
+<option selected>*</option>
+<option>ID</option>
+<option>Title</option>
+<option>Category</option>
+<option>ISBN</option>
+</select></p>
+<p><input type = "submit" value = "Send Query"></p>
+</form>
+</body>
+</html>

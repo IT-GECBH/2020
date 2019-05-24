@@ -1,0 +1,9 @@
+/* styles.css */
+/* External style sheet */
+body { font-family: arial, helvetica, sans-serif; }
+a.nodec { text-decoration: none; }
+a:hover { text-decoration: underline; }
+li em { font-weight: bold; }
+h1, em { text-decoration: underline; }
+ul { margin-left: 20px; }
+ul ul { font-size: .8em; }

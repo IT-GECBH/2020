@@ -47,6 +47,8 @@ permalink: /resources-s6/
 * [Module 2][it-mod-2]
 * [Module 3][it-mod-3]
 * [Module 4][it-mod-4]
+* [Module 5][it-mod-5]
+* [Module 6][it-mod-6]
 
 # Code:
 # Mod 1:
@@ -124,6 +126,39 @@ permalink: /resources-s6/
 * [mouseover_out.html](/year3/resources/IT/mod_4/mouseover_out.html)
 * [move_dynstyle.html](/year3/resources/IT/mod_4/move_dynstyle.html)
 
+# Mod 5:
+* [article.xml](/year3/resources/IT/mod_5/article.xml)
+* [defaultnamespace.xml](/year3/resources/IT/mod_5/defaultnamespace.xml)
+* [letter.xml](/year3/resources/IT/mod_5/letter.xml)
+* [mathml1.html](/year3/resources/IT/mod_5/mathml1.html)
+* [mathml.html](/year3/resources/IT/mod_5/mathml.html)
+* [namespace.xml](/year3/resources/IT/mod_5/namespace.xml)
+* [player.xml](/year3/resources/IT/mod_5/player.xml)
+* [sports.xml](/year3/resources/IT/mod_5/sports.xml)
+* [sports.xsl](/year3/resources/IT/mod_5/sports.xsl)
+* [style.css](/year3/resources/IT/mod_5/style.css)
+* [temp.txt](/year3/resources/IT/mod_5/temp.txt)
+* [test.xml](/year3/resources/IT/mod_5/test.xml)
+* [test.xsl](/year3/resources/IT/mod_5/test.xsl)
+
+# Mod 6:
+* [database.asp](/year3/resources/IT/mod_6/database.asp)
+* [database.php](/year3/resources/IT/mod_6/database.php)
+* [delete.php](/year3/resources/IT/mod_6/delete.php)
+* [form.php](/year3/resources/IT/mod_6/form.php)
+* [formproc.php](/year3/resources/IT/mod_6/formproc.php)
+* [index.php](/year3/resources/IT/mod_6/index.php)
+* [input.html](/year3/resources/IT/mod_6/input.html)
+* [regex.php](/year3/resources/IT/mod_6/regex.php)
+* [search_.php](/year3/resources/IT/mod_6/search_.php)
+* [search.php](/year3/resources/IT/mod_6/search.php)
+* [strcmp.php](/year3/resources/IT/mod_6/strcmp.php)
+* [student_delete.html](/year3/resources/IT/mod_6/student_delete.html)
+* [student_input.html](/year3/resources/IT/mod_6/student_input.html)
+* [student_search.html](/year3/resources/IT/mod_6/student_search.html)
+* [student_search.php](/year3/resources/IT/mod_6/student_search.php)
+* [temp.txt](/year3/resources/IT/mod_6/temp.txt)
+
 ## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][cd-prev]
@@ -193,6 +228,8 @@ permalink: /resources-s6/
 [it-mod-2]: /resources/IT/Module_II.pptx
 [it-mod-3]: /resources/IT/Module_III.pptx
 [it-mod-4]: /resources/IT/Module_IV.pptx
+[it-mod-5]: /resources/IT/Module_V.pptx
+[it-mod-6]: /resources/IT/Module_VI.pptx
 
 [cd-syll]: /resources/CD/CS304_Compiler_Design.pdf
 [cd-prev]: /resources/CD/CS304-A.pdf
