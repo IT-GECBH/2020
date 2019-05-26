@@ -28,6 +28,12 @@ permalink: /resources-s6/
 * [https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_environments.htm](https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_environments.htm)
 * [Distributed systems Recovery](https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_recovery.htm)
 
+# Notes:
+* [mod1.pdf](/year3/resources/ADMS/notes/mod1.pdf)
+* [mod_2.pdf](/year3/resources/ADMS/notes/mod_2.pdf)
+* [mod_3&4.pdf](/year3/resources/ADMS/notes/mod_3&4.pdf)
+* [mod_5.pdf](/year3/resources/ADMS/notes/mod_5.pdf)
+* [mod_6.pdf](/year3/resources/ADMS/notes/mod_6.pdf)
 ## **Software Project Management** *( Elective )*
 [Syllabus][spm-syll] *( Credits: 3 )* <br />
 
