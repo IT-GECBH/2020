@@ -4,7 +4,7 @@ title: S6
 permalink: /resources-s6/
 ---
 
-## ~~**Advanced DBMS** *( Elective )*~~
+## ~~**Advanced DBMS**~~ *( Elective )*
 [Syllabus][adbms-syll] *( Credits: 3 )*  <br />
 
 * [Distributed Database Concepts][adbms-ddc]
@@ -35,7 +35,7 @@ permalink: /resources-s6/
 * [mod_5.pdf](/year3/resources/ADMS/notes/mod_5.pdf)
 * [mod_6.pdf](/year3/resources/ADMS/notes/mod_6.pdf)
 
-## ~~**Software Project Management** *( Elective )*~~
+## ~~**Software Project Management**~~ *( Elective )*
 [Syllabus][spm-syll] *( Credits: 3 )* <br />
 
 * [Scope](/year3/resources/SPM/Scope.pdf)
