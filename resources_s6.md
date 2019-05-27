@@ -4,49 +4,6 @@ title: S6
 permalink: /resources-s6/
 ---
 
-## ~~**Advanced DBMS**~~ *( Elective )*
-[Syllabus][adbms-syll] *( Credits: 3 )*  <br />
-
-* [Distributed Database Concepts][adbms-ddc]
-* [Pros and Cons_of_DDB and OODB][adbms-pros]
-* [Distributed Databases][adbms-ddbs]
-* [Object and Object Relational Databases 1][adbms-obj-1]
-* [Object and Object Relational Databases 2][adbms-obj-2]
-* [Object Based Databases][adbms-objectbased]
-* [Enhanced Data Models: Introduction to Active, Temporal, Spatial, Multimedia, and Deductive Databases][adbms-active]
-* [Optimization][adbms-opti]
-* [Tuning][adbms-tuning]
-* [Database Security][adbms-security]
-* [Parallel Databases][adbms-para-1]
-* [Database System Architectures][adbms-dat-sys-arch]
-* [XML][adbms-xml]
-* [Data Mining][adbms-datamining]
-* [Data Warehousing][adbms-datawarehousing]
-* [Mobile Database][adbms-mobile]
-
-# Some useful links:
-* [https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_environments.htm](https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_environments.htm)
-* [Distributed systems Recovery](https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_recovery.htm)
-
-# Notes:
-* [mod1.pdf](/year3/resources/ADMS/notes/mod1.pdf)
-* [mod_2.pdf](/year3/resources/ADMS/notes/mod_2.pdf)
-* [mod_3&4.pdf](/year3/resources/ADMS/notes/mod_3&4.pdf)
-* [mod_5.pdf](/year3/resources/ADMS/notes/mod_5.pdf)
-* [mod_6.pdf](/year3/resources/ADMS/notes/mod_6.pdf)
-
-## ~~**Software Project Management**~~ *( Elective )*
-[Syllabus][spm-syll] *( Credits: 3 )* <br />
-
-* [Scope](/year3/resources/SPM/Scope.pdf)
-* [Agile](/year3/resources/SPM/Agile.pdf)
-* [Layered approach](/year3/resources/SPM/Layered-approach.pptx)
-* [Project Management Concepts](/year3/resources/SPM/Chapter24.pdf)
-* [Process and Project Metrics](/year3/resources/SPM/Chapter_25.pdf)
-* [Estimation for Software Projects](/year3/resources/SPM/Chapter26.pdf)
-* [Module 5](/year3/resources/SPM/Module_5.pdf)
-* [Module 6](/year3/resources/SPM/Module_6.pdf)
-
 ## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
 [Previous Year Question Paper][it-prev-r]
@@ -222,6 +179,49 @@ permalink: /resources-s6/
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][pom-prev]
+
+## ~~**Advanced DBMS**~~ *( Elective )*
+[Syllabus][adbms-syll] *( Credits: 3 )*  <br />
+
+* [Distributed Database Concepts][adbms-ddc]
+* [Pros and Cons_of_DDB and OODB][adbms-pros]
+* [Distributed Databases][adbms-ddbs]
+* [Object and Object Relational Databases 1][adbms-obj-1]
+* [Object and Object Relational Databases 2][adbms-obj-2]
+* [Object Based Databases][adbms-objectbased]
+* [Enhanced Data Models: Introduction to Active, Temporal, Spatial, Multimedia, and Deductive Databases][adbms-active]
+* [Optimization][adbms-opti]
+* [Tuning][adbms-tuning]
+* [Database Security][adbms-security]
+* [Parallel Databases][adbms-para-1]
+* [Database System Architectures][adbms-dat-sys-arch]
+* [XML][adbms-xml]
+* [Data Mining][adbms-datamining]
+* [Data Warehousing][adbms-datawarehousing]
+* [Mobile Database][adbms-mobile]
+
+# Some useful links:
+* [https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_environments.htm](https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_environments.htm)
+* [Distributed systems Recovery](https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_database_recovery.htm)
+
+# Notes:
+* [mod1.pdf](/year3/resources/ADMS/notes/mod1.pdf)
+* [mod_2.pdf](/year3/resources/ADMS/notes/mod_2.pdf)
+* [mod_3&4.pdf](/year3/resources/ADMS/notes/mod_3&4.pdf)
+* [mod_5.pdf](/year3/resources/ADMS/notes/mod_5.pdf)
+* [mod_6.pdf](/year3/resources/ADMS/notes/mod_6.pdf)
+
+## ~~**Software Project Management**~~ *( Elective )*
+[Syllabus][spm-syll] *( Credits: 3 )* <br />
+
+* [Scope](/year3/resources/SPM/Scope.pdf)
+* [Agile](/year3/resources/SPM/Agile.pdf)
+* [Layered approach](/year3/resources/SPM/Layered-approach.pptx)
+* [Project Management Concepts](/year3/resources/SPM/Chapter24.pdf)
+* [Process and Project Metrics](/year3/resources/SPM/Chapter_25.pdf)
+* [Estimation for Software Projects](/year3/resources/SPM/Chapter26.pdf)
+* [Module 5](/year3/resources/SPM/Module_5.pdf)
+* [Module 6](/year3/resources/SPM/Module_6.pdf)
 
 ## **Networks Lab**
 * [Lab Exercises][net-lab-ex]
