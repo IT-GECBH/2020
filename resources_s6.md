@@ -25,6 +25,7 @@ permalink: /resources-s6/
 * [m6-cs304-compilerdesign.pdf](/year3/resources/CD/m6-cs304-compilerdesign.pdf)
 
 # Some useful links:
+* [First and Follow](https://www.gatevidyalay.com/first-and-follow-compiler-design/)
 * [Syntax Directed Translation](https://www.brainkart.com/article/Syntax-Directed-Translation_8153/)
 * [Intermediate Code Generation](https://www.brainkart.com/article/Intermediate-Code-Generation_8159/)
 * [Intermediate Languages](https://www.brainkart.com/article/Intermediate-Languages_8092/)
