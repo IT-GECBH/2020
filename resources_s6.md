@@ -35,6 +35,17 @@ permalink: /resources-s6/
 * [Target Machine](https://www.brainkart.com/article/Target-Machine_8101/)
 * [A simple code generator](https://www.brainkart.com/article/A-Simple-Code-Generator_8104/)
 
+## **Distributed Systems**
+[Syllabus][ds-syll] *( Credits: 3 )*  <br />
+[Previous Year Question Paper][ds-prev]
+
+* Mod 6 : [https://www.slideshare.net/ASHI14march/distributed-shared-memory](https://www.slideshare.net/ASHI14march/distributed-shared-memory)
+* [Distributed Mutual Exclusion](https://www.slideshare.net/sandpoonia/8-mutual-exclusion)
+
+## **Principles of Management**
+[Syllabus][pom-syll] *( Credits: 3 )*  <br />
+[Previous Year Question Paper][pom-prev]
+
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][dwm-prev]
@@ -50,17 +61,6 @@ permalink: /resources-s6/
 # Some useful links:
 * [https://www.futurelearn.com/courses/data-mining-with-weka](https://www.futurelearn.com/courses/data-mining-with-weka) *(for tutorial 2)*
 * [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/) *(for tutorial 2)*
-
-## **Distributed Systems**
-[Syllabus][ds-syll] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][ds-prev]
-
-* Mod 6 : [https://www.slideshare.net/ASHI14march/distributed-shared-memory](https://www.slideshare.net/ASHI14march/distributed-shared-memory)
-* [Distributed Mutual Exclusion](https://www.slideshare.net/sandpoonia/8-mutual-exclusion)
-
-## **Principles of Management**
-[Syllabus][pom-syll] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][pom-prev]
 
 ## ~~**Advanced DBMS**~~ *( Elective )*
 [Syllabus][adbms-syll] *( Credits: 3 )*  <br />
