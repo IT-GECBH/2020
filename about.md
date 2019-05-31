@@ -7,7 +7,7 @@ For notes and ppts, check out the semester tabs.
 
 Follow the posts on the [Home] page for new updates!
 
-To see the code, click [here][repo].
+Click [here][repo] for the link to the GitHub repo.
 
 
 [Home]: /year3
