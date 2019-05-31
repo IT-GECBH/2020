@@ -4,38 +4,6 @@ title: S6
 permalink: /resources-s6/
 ---
 
-## **Compiler Design**
-[Syllabus][cd-syll] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][cd-prev]
-
-* [Bottom up parsing][cd-bottomup]
-* [LR parsing techniques][cd-lr]
-
-* [CD-M1-Ktunotes.in.pdf](/year3/resources/CD/CD-M1-Ktunotes.in.pdf)
-* [CD-M2-Ktunotes.in.pdf](/year3/resources/CD/CD-M2-Ktunotes.in.pdf)
-* [CD-M3-Ktunotes.in.pdf](/year3/resources/CD/CD-M3-Ktunotes.in.pdf)
-* [CD-M4-Ktunotes.in.pdf](/year3/resources/CD/CD-M4-Ktunotes.in.pdf)
-* [CD-M5-Ktunotes.in.pdf](/year3/resources/CD/CD-M5-Ktunotes.in.pdf)
-* [CS304-Compiler-Design.pdf](/year3/resources/CD/CS304-Compiler-Design.pdf)
-* [m1-cs304-compilerdesign.pdf](/year3/resources/CD/m1-cs304-compilerdesign.pdf)
-* [m2-cs304-compilerdesign.pdf](/year3/resources/CD/m2-cs304-compilerdesign.pdf)
-* [m3-cs304-compilerdesign.pdf](/year3/resources/CD/m3-cs304-compilerdesign.pdf)
-* [m4-cs304-compilerdesign.pdf](/year3/resources/CD/m4-cs304-compilerdesign.pdf)
-* [m5-cs304-compilerdesign.pdf](/year3/resources/CD/m5-cs304-compilerdesign.pdf)
-* [m6-cs304-compilerdesign.pdf](/year3/resources/CD/m6-cs304-compilerdesign.pdf)
-
-# Some useful links:
-* [First and Follow](https://www.gatevidyalay.com/first-and-follow-compiler-design/)
-* [Syntax Directed Translation](https://www.brainkart.com/article/Syntax-Directed-Translation_8153/)
-* [Intermediate Code Generation](https://www.brainkart.com/article/Intermediate-Code-Generation_8159/)
-* [Intermediate Languages](https://www.brainkart.com/article/Intermediate-Languages_8092/)
-* [Code Optimization](https://www.brainkart.com/article/Code-Optimization_8109/)
-* [Principal Sources of Optimization](https://www.brainkart.com/article/Principal-Sources-of-Optimisation_8110/)
-* [Optimization of Basic Blocks](https://www.brainkart.com/article/Optimization-of-Basic-Blocks_8112/)
-* [Issues in the design of a code generator](https://www.brainkart.com/article/Issues-in-the-design-of-a-code-generator_8100/)
-* [Target Machine](https://www.brainkart.com/article/Target-Machine_8101/)
-* [A simple code generator](https://www.brainkart.com/article/A-Simple-Code-Generator_8104/)
-
 ## **Distributed Systems**
 [Syllabus][ds-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][ds-prev]
@@ -223,6 +191,38 @@ permalink: /resources-s6/
 * [student_input.html](/year3/resources/IT/mod_6/student_input.html)
 * [student_search.html](/year3/resources/IT/mod_6/student_search.html)
 * [student_search.php](/year3/resources/IT/mod_6/student_search.php)
+
+## ~~**Compiler Design**~~
+[Syllabus][cd-syll] *( Credits: 3 )*  <br />
+[Previous Year Question Paper][cd-prev]
+
+* [Bottom up parsing][cd-bottomup]
+* [LR parsing techniques][cd-lr]
+
+* [CD-M1-Ktunotes.in.pdf](/year3/resources/CD/CD-M1-Ktunotes.in.pdf)
+* [CD-M2-Ktunotes.in.pdf](/year3/resources/CD/CD-M2-Ktunotes.in.pdf)
+* [CD-M3-Ktunotes.in.pdf](/year3/resources/CD/CD-M3-Ktunotes.in.pdf)
+* [CD-M4-Ktunotes.in.pdf](/year3/resources/CD/CD-M4-Ktunotes.in.pdf)
+* [CD-M5-Ktunotes.in.pdf](/year3/resources/CD/CD-M5-Ktunotes.in.pdf)
+* [CS304-Compiler-Design.pdf](/year3/resources/CD/CS304-Compiler-Design.pdf)
+* [m1-cs304-compilerdesign.pdf](/year3/resources/CD/m1-cs304-compilerdesign.pdf)
+* [m2-cs304-compilerdesign.pdf](/year3/resources/CD/m2-cs304-compilerdesign.pdf)
+* [m3-cs304-compilerdesign.pdf](/year3/resources/CD/m3-cs304-compilerdesign.pdf)
+* [m4-cs304-compilerdesign.pdf](/year3/resources/CD/m4-cs304-compilerdesign.pdf)
+* [m5-cs304-compilerdesign.pdf](/year3/resources/CD/m5-cs304-compilerdesign.pdf)
+* [m6-cs304-compilerdesign.pdf](/year3/resources/CD/m6-cs304-compilerdesign.pdf)
+
+# Some useful links:
+* [First and Follow](https://www.gatevidyalay.com/first-and-follow-compiler-design/)
+* [Syntax Directed Translation](https://www.brainkart.com/article/Syntax-Directed-Translation_8153/)
+* [Intermediate Code Generation](https://www.brainkart.com/article/Intermediate-Code-Generation_8159/)
+* [Intermediate Languages](https://www.brainkart.com/article/Intermediate-Languages_8092/)
+* [Code Optimization](https://www.brainkart.com/article/Code-Optimization_8109/)
+* [Principal Sources of Optimization](https://www.brainkart.com/article/Principal-Sources-of-Optimisation_8110/)
+* [Optimization of Basic Blocks](https://www.brainkart.com/article/Optimization-of-Basic-Blocks_8112/)
+* [Issues in the design of a code generator](https://www.brainkart.com/article/Issues-in-the-design-of-a-code-generator_8100/)
+* [Target Machine](https://www.brainkart.com/article/Target-Machine_8101/)
+* [A simple code generator](https://www.brainkart.com/article/A-Simple-Code-Generator_8104/)
 
 ## **Networks Lab**
 * [Lab Exercises][net-lab-ex]
