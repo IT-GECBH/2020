@@ -11,6 +11,13 @@ permalink: /resources-s6/
 * Mod 6 : [https://www.slideshare.net/ASHI14march/distributed-shared-memory](https://www.slideshare.net/ASHI14march/distributed-shared-memory)
 * [Distributed Mutual Exclusion](https://www.slideshare.net/sandpoonia/8-mutual-exclusion)
 
+# Notes:
+* [DS_mod1.pdf](/year3/resources/DS/DS_mod1.pdf)
+* [DS_mod2.pdf](/year3/resources/DS/DS_mod2.pdf)
+* [DS_mod3.pdf](/year3/resources/DS/DS_mod3.pdf)
+* [DS_mod4&5.pdf](/year3/resources/DS/DS_mod4&5.pdf)
+* [DS_mod6.pdf](/year3/resources/DS/DS_mod6.pdf)
+
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][pom-prev]
