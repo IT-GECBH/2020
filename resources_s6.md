@@ -4,20 +4,6 @@ title: S6
 permalink: /resources-s6/
 ---
 
-## **Distributed Systems**
-[Syllabus][ds-syll] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][ds-prev]
-
-* Mod 6 : [https://www.slideshare.net/ASHI14march/distributed-shared-memory](https://www.slideshare.net/ASHI14march/distributed-shared-memory)
-* [Distributed Mutual Exclusion](https://www.slideshare.net/sandpoonia/8-mutual-exclusion)
-
-# Notes:
-* [DS_mod1.pdf](/year3/resources/DS/DS_mod1.pdf)
-* [DS_mod2.pdf](/year3/resources/DS/DS_mod2.pdf)
-* [DS_mod3.pdf](/year3/resources/DS/DS_mod3.pdf)
-* [DS_mod4&5.pdf](/year3/resources/DS/DS_mod4&5.pdf)
-* [DS_mod6.pdf](/year3/resources/DS/DS_mod6.pdf)
-
 ## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][pom-prev]
@@ -230,6 +216,20 @@ permalink: /resources-s6/
 * [Issues in the design of a code generator](https://www.brainkart.com/article/Issues-in-the-design-of-a-code-generator_8100/)
 * [Target Machine](https://www.brainkart.com/article/Target-Machine_8101/)
 * [A simple code generator](https://www.brainkart.com/article/A-Simple-Code-Generator_8104/)
+
+## ~~**Distributed Systems**~~
+[Syllabus][ds-syll] *( Credits: 3 )*  <br />
+[Previous Year Question Paper][ds-prev]
+
+* Mod 6 : [https://www.slideshare.net/ASHI14march/distributed-shared-memory](https://www.slideshare.net/ASHI14march/distributed-shared-memory)
+* [Distributed Mutual Exclusion](https://www.slideshare.net/sandpoonia/8-mutual-exclusion)
+
+# Notes:
+* [DS_mod1.pdf](/year3/resources/DS/DS_mod1.pdf)
+* [DS_mod2.pdf](/year3/resources/DS/DS_mod2.pdf)
+* [DS_mod3.pdf](/year3/resources/DS/DS_mod3.pdf)
+* [DS_mod4&5.pdf](/year3/resources/DS/DS_mod4&5.pdf)
+* [DS_mod6.pdf](/year3/resources/DS/DS_mod6.pdf)
 
 ## **Networks Lab**
 * [Lab Exercises][net-lab-ex]
