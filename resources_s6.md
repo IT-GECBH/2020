@@ -4,10 +4,6 @@ title: S6
 permalink: /resources-s6/
 ---
 
-## **Principles of Management**
-[Syllabus][pom-syll] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][pom-prev]
-
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][dwm-prev]
@@ -230,6 +226,10 @@ permalink: /resources-s6/
 * [DS_mod3.pdf](/year3/resources/DS/DS_mod3.pdf)
 * [DS_mod4&5.pdf](/year3/resources/DS/DS_mod4&5.pdf)
 * [DS_mod6.pdf](/year3/resources/DS/DS_mod6.pdf)
+
+## ~~**Principles of Management**~~
+[Syllabus][pom-syll] *( Credits: 3 )*  <br />
+[Previous Year Question Paper][pom-prev]
 
 ## **Networks Lab**
 * [Lab Exercises][net-lab-ex]
