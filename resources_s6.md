@@ -3,6 +3,9 @@ layout: page
 title: S6
 permalink: /resources-s6/
 ---
+## **Comprehensive Exam**
+[Syllabus](/year3/resources/COMPREHENSIVE/List_of_courses_for_Obj_Type_Compr_Exam.pdf)<br />
+[Previous Year Question Paper](IT352-A.pdf)
 
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
