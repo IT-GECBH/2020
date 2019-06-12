@@ -3,9 +3,6 @@ layout: page
 title: S6
 permalink: /resources-s6/
 ---
-## **Comprehensive Exam**
-[Syllabus](/year3/resources/COMPREHENSIVE/List_of_courses_for_Obj_Type_Compr_Exam.pdf) *( Credits: 2 )*  <br />
-[Previous Year Question Paper](/year3/resources/COMPREHENSIVE/IT352-A.pdf)
 
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
@@ -233,6 +230,10 @@ permalink: /resources-s6/
 ## ~~**Principles of Management**~~
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][pom-prev]
+
+## ~~**Comprehensive Exam**~~
+[Syllabus](/year3/resources/COMPREHENSIVE/List_of_courses_for_Obj_Type_Compr_Exam.pdf) *( Credits: 2 )*  <br />
+[Previous Year Question Paper](/year3/resources/COMPREHENSIVE/IT352-A.pdf)
 
 ## **Networks Lab**
 * [Lab Exercises][net-lab-ex]
