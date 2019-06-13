@@ -7,6 +7,12 @@ permalink: /resources-s6/
 ## **Data Warehousing and Mining**
 [Syllabus][dwm-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][dwm-prev]
+
+# Notes:
+* [dwm1.pdf](/year3/resources/DWM/dwm1.pdf)
+* [dwm5.pdf](/year3/resources/DWM/dwm5.pdf)
+* [dwm6.pdf](/year3/resources/DWM/dwm6.pdf)
+
 # Series 1:
 * [Data Warehousing][data-ware-ppt]
 * [Tutorial 1][dwm-tut-1]
