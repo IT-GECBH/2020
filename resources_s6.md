@@ -27,7 +27,7 @@ permalink: /resources-s6/
 * [https://www.futurelearn.com/courses/data-mining-with-weka](https://www.futurelearn.com/courses/data-mining-with-weka) *(for tutorial 2)*
 * [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/) *(for tutorial 2)*
 
-## ~~**Advanced DBMS**~~ *( Elective )*
+## **Advanced DBMS** *( Elective )*
 [Syllabus][adbms-syll] *( Credits: 3 )*  <br />
 
 * [Distributed Database Concepts][adbms-ddc]
@@ -58,7 +58,7 @@ permalink: /resources-s6/
 * [mod_5.pdf](/year3/resources/ADMS/notes/mod_5.pdf)
 * [mod_6.pdf](/year3/resources/ADMS/notes/mod_6.pdf)
 
-## ~~**Software Project Management**~~ *( Elective )*
+## **Software Project Management** *( Elective )*
 [Syllabus][spm-syll] *( Credits: 3 )* <br />
 
 * [Scope](/year3/resources/SPM/Scope.pdf)
@@ -70,7 +70,7 @@ permalink: /resources-s6/
 * [Module 5](/year3/resources/SPM/Module_5.pdf)
 * [Module 6](/year3/resources/SPM/Module_6.pdf)
 
-## ~~**Internet Technology**~~
+## **Internet Technology**
 [Syllabus][it-syll] *( Credits: 4 )*  <br />
 [Previous Year Question Paper][it-prev-r]
 
@@ -188,7 +188,7 @@ permalink: /resources-s6/
 * [student_search.html](/year3/resources/IT/mod_6/student_search.html)
 * [student_search.php](/year3/resources/IT/mod_6/student_search.php)
 
-## ~~**Compiler Design**~~
+## **Compiler Design**
 [Syllabus][cd-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][cd-prev]
 
@@ -220,7 +220,7 @@ permalink: /resources-s6/
 * [Target Machine](https://www.brainkart.com/article/Target-Machine_8101/)
 * [A simple code generator](https://www.brainkart.com/article/A-Simple-Code-Generator_8104/)
 
-## ~~**Distributed Systems**~~
+## **Distributed Systems**
 [Syllabus][ds-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][ds-prev]
 
@@ -234,11 +234,11 @@ permalink: /resources-s6/
 * [DS_mod4&5.pdf](/year3/resources/DS/DS_mod4&5.pdf)
 * [DS_mod6.pdf](/year3/resources/DS/DS_mod6.pdf)
 
-## ~~**Principles of Management**~~
+## **Principles of Management**
 [Syllabus][pom-syll] *( Credits: 3 )*  <br />
 [Previous Year Question Paper][pom-prev]
 
-## ~~**Comprehensive Exam**~~
+## **Comprehensive Exam**
 [Syllabus](/year3/resources/COMPREHENSIVE/List_of_courses_for_Obj_Type_Compr_Exam.pdf) *( Credits: 2 )*  <br />
 [Previous Year Question Paper](/year3/resources/COMPREHENSIVE/IT352-A.pdf)
 
