@@ -4,29 +4,29 @@ title: S7
 permalink: /resources-s7/
 ---
 ## **Embedded Systems**
-<!-- [Syllabus][] *( Credits: 4 )*  <br />
-[Previous Year Question Paper][] -->
+[Syllabus](/year3/resources/ES/IT401-Embedded-Systems.pdf) *( Credits: 4 )*  <br />
+<!-- [Previous Year Question Paper][] -->
 
 ## **Knowledge Engineering**
-<!-- [Syllabus][] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][] -->
+[Syllabus](/year3/resources/KE/IT407-Knowledge-Engineering.pdf) *( Credits: 3 )*  <br />
+<!-- [Previous Year Question Paper][] -->
 
 ## **Machine Learning**
-<!-- [Syllabus][] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][] -->
+[Syllabus](/year3/resources/ML/CS467-Machine-Learning.pdf) *( Credits: 3 )*  <br />
+<!-- [Previous Year Question Paper][] -->
 
 ## **Semantic Web**
-<!-- [Syllabus][] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][] -->
+[Syllabus](/year3/resources/SW/IT463-Semantic-web.pdf) *( Credits: 3 )*  <br />
+<!-- [Previous Year Question Paper][] -->
 
 ## **Web Application Development**
-<!-- [Syllabus][] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][] -->
+[Syllabus](/year3/resources/WAD/IT409-Web-Application-Development.pdf) *( Credits: 3 )*  <br />
+<!-- [Previous Year Question Paper][] -->
 
 ## **Microcontroller**
-<!-- [Syllabus][] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][] -->
+[Syllabus](/year3/resources/MC/IT403-Mobile-Computing.pdf) *( Credits: 3 )*  <br />
+<!-- [Previous Year Question Paper][] -->
 
 ## **Internetworking**
-<!-- [Syllabus][] *( Credits: 3 )*  <br />
-[Previous Year Question Paper][] -->
+[Syllabus](/year3/resources/INT/IT405-Internetworking-with-TCP-IP.pdf) *( Credits: 3 )*  <br />
+<!-- [Previous Year Question Paper][] -->
