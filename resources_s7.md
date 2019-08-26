@@ -1,7 +1,7 @@
 ---
 layout: page
-title: S6
-permalink: /resources-s6/
+title: S7
+permalink: /resources-s7/
 ---
 ## **Embedded Systems**
 [Syllabus][] *( Credits: 4 )*  <br />
