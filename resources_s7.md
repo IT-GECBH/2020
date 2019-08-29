@@ -23,7 +23,7 @@ permalink: /resources-s7/
 [Syllabus](/year3/resources/WAD/IT409-Web-Application-Development.pdf) *( Credits: 3 )*  <br />
 <!-- [Previous Year Question Paper][] -->
 
-## **Microcontroller**
+## **Mobile Computing**
 [Syllabus](/year3/resources/MC/IT403-Mobile-Computing.pdf) *( Credits: 3 )*  <br />
 <!-- [Previous Year Question Paper][] -->
 
