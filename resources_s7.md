@@ -37,6 +37,10 @@ permalink: /resources-s7/
 [Syllabus](/2020/resources/WAD/IT409-Web-Application-Development.pdf) *( Credits: 3 )*  <br />
 <!-- [Previous Year Question Paper][] -->
 
+# Code:
+* [LoginServlet.java](/resources/WAD/LoginServlet.java)
+* [ReistrationServlet.java](/resources/WAD/ReistrationServlet.java)
+
 ## **Mobile Computing**
 [Syllabus](/2020/resources/MC/IT403-Mobile-Computing.pdf) *( Credits: 3 )*  <br />
 <!-- [Previous Year Question Paper][] -->
