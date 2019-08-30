@@ -15,6 +15,14 @@ permalink: /resources-s7/
 [Syllabus](/2020/resources/ML/CS467-Machine-Learning.pdf) *( Credits: 3 )*  <br />
 <!-- [Previous Year Question Paper][] -->
 
+# Notes:
+* [module_1.pptx](/resources/ML/module_1.pptx)
+* [cet_01_Python.pdf](/resources/ML/cet_01_Python.pdf)
+* [cet_02_ScientificPython.pdf](/resources/ML/cet_02_ScientificPython.pdf)
+* [cet_03_Pandas.pdf](/resources/ML/cet_03_Pandas.pdf)
+* [Google_Colab.pdf](/resources/ML/Google_Colab.pdf)
+* [Jupyter_Notebook.pdf](/resources/ML/Jupyter_Notebook.pdf)
+
 ## **Semantic Web**
 [Syllabus](/2020/resources/SW/IT463-Semantic-web.pdf) *( Credits: 3 )*  <br />
 <!-- [Previous Year Question Paper][] -->
