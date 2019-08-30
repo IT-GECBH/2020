@@ -1,2 +1,2 @@
 # year3
-The official class website of 3rd Year IT made using Jekyll.
+The official class website of IT 2016-20 made using Jekyll.
