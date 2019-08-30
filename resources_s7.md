@@ -7,6 +7,9 @@ permalink: /resources-s7/
 [Syllabus](/2020/resources/ES/IT401-Embedded-Systems.pdf) *( Credits: 4 )*  <br />
 <!-- [Previous Year Question Paper][] -->
 
+# Notes:
+* [Arduino_Beginner.pptx](/resources/ES/Arduino_Beginner.pptx)
+
 ## **Knowledge Engineering**
 [Syllabus](/2020/resources/KE/IT407-Knowledge-Engineering.pdf) *( Credits: 3 )*  <br />
 <!-- [Previous Year Question Paper][] -->
