@@ -14,6 +14,10 @@ permalink: /resources-s7/
 [Syllabus](/2020/resources/KE/IT407-Knowledge-Engineering.pdf) *( Credits: 3 )*  <br />
 <!-- [Previous Year Question Paper][] -->
 
+# Notes:
+* [Python_problemset.pdf](/resources/KE/Python_problemset.pdf)
+* [python_tutorial.pdf](/resources/KE/python_tutorial.pdf)
+
 ## **Machine Learning**
 [Syllabus](/2020/resources/ML/CS467-Machine-Learning.pdf) *( Credits: 3 )*  <br />
 
