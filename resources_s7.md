@@ -28,7 +28,7 @@ permalink: /resources-s7/
 * [cet_03_Pandas.pdf](/resources/ML/cet_03_Pandas.pdf)
 * [Google_Colab.pdf](/resources/ML/Google_Colab.pdf)
 * [Jupyter_Notebook.pdf](/resources/ML/Jupyter_Notebook.pdf)
-*[NotesOnMachineLearningForBTech-1.pdf](/resources/ML/NotesOnMachineLearningForBTech-1.pdf)
+* [NotesOnMachineLearningForBTech-1.pdf](/resources/ML/NotesOnMachineLearningForBTech-1.pdf)
 
 ## **Semantic Web**
 [Syllabus](/2020/resources/SW/IT463-Semantic-web.pdf) *( Credits: 3 )*  <br />
