@@ -22,7 +22,10 @@ permalink: /resources-s7/
 [Syllabus](/2020/resources/ML/CS467-Machine-Learning.pdf) *( Credits: 3 )*  <br />
 
 # Notes:
-* [module_1.pptx](/resources/ML/module_1.pptx)
+* [Module_1.pptx](/resources/ML/module_1.pptx)
+* [Module_2.pptx](/resources/ML/module_2.pptx)
+* [Module_3.pptx](/resources/ML/module_3.pptx)
+* [Module_4.pptx](/resources/ML/module_4.pptx)
 * [cet_01_Python.pdf](/resources/ML/cet_01_Python.pdf)
 * [cet_02_ScientificPython.pdf](/resources/ML/cet_02_ScientificPython.pdf)
 * [cet_03_Pandas.pdf](/resources/ML/cet_03_Pandas.pdf)
