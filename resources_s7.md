@@ -39,7 +39,10 @@ permalink: /resources-s7/
 
 ## **Web Application Development**
 [Syllabus](/2020/resources/WAD/IT409-Web-Application-Development.pdf) *( Credits: 3 )*  <br />
-<!-- [Previous Year Question Paper][] -->
+
+# Notes:
+* [Module_1.pptx](/resources/WAD/module_1.pptx)
+* [Module_2.pptx](/resources/WAD/module_2.pptx)
 
 # Code:
 * [LoginServlet.java](/resources/WAD/LoginServlet.java)
