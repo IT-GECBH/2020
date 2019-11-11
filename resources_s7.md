@@ -43,6 +43,10 @@ permalink: /resources-s7/
 # Notes:
 * [Module_1.ppt](/resources/WAD/module_1.ppt)
 * [Module_2.ppt](/resources/WAD/module_2.ppt)
+* [Module_3.ppt](/resources/WAD/Module_III.pptx)
+* [Module_4.ppt](/resources/WAD/Module_IV.pptx)
+* [Module_5.ppt](/resources/WAD/Module_V.pptx)
+* [Module_6.ppt](/resources/WAD/Module_VI.pptx)
 
 # Code:
 * [LoginServlet.java](/resources/WAD/LoginServlet.java)
