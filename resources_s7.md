@@ -59,4 +59,4 @@ permalink: /resources-s7/
 
 ## **Internetworking**
 [Syllabus](/2020/resources/INT/IT405-Internetworking-with-TCP-IP.pdf) *( Credits: 3 )*  <br />
-<!-- [Previous Year Question Paper][] -->
+[Previous Year Question Paper](/resources/INT/IT405-A.pdf)
