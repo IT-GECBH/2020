@@ -5,14 +5,14 @@ permalink: /resources-s7/
 ---
 ## **Embedded Systems**
 [Syllabus](/2020/resources/ES/IT401-Embedded-Systems.pdf) *( Credits: 4 )*  <br />
-<!-- [Previous Year Question Paper][] -->
+[Previous Year Question Paper](/resources/ES/IT401-A.pdf)
 
 # Notes:
 * [Arduino_Beginner.pptx](/resources/ES/Arduino_Beginner.pptx)
 
 ## **Knowledge Engineering**
 [Syllabus](/2020/resources/KE/IT407-Knowledge-Engineering.pdf) *( Credits: 3 )*  <br />
-<!-- [Previous Year Question Paper][] -->
+[Previous Year Question Paper](/resources/KE/IT407-A.pdf)
 
 # Notes:
 * [Python_problemset.pdf](/resources/KE/Python_problemset.pdf)
@@ -40,6 +40,7 @@ permalink: /resources-s7/
 
 ## **Web Application Development**
 [Syllabus](/2020/resources/WAD/IT409-Web-Application-Development.pdf) *( Credits: 3 )*  <br />
+[Previous Year Question Paper](/resources/WAD/IT409-A.pdf)
 
 # Notes:
 * [Module_1.ppt](/resources/WAD/module_1.ppt)
@@ -55,7 +56,7 @@ permalink: /resources-s7/
 
 ## **Mobile Computing**
 [Syllabus](/2020/resources/MC/IT403-Mobile-Computing.pdf) *( Credits: 3 )*  <br />
-<!-- [Previous Year Question Paper][] -->
+[Previous Year Question Paper](/resources/MC/IT403-A.pdf)
 
 ## **Internetworking**
 [Syllabus](/2020/resources/INT/IT405-Internetworking-with-TCP-IP.pdf) *( Credits: 3 )*  <br />
