@@ -20,6 +20,7 @@ permalink: /resources-s7/
 
 ## **Machine Learning**
 [Syllabus](/2020/resources/ML/CS467-Machine-Learning.pdf) *( Credits: 3 )*  <br />
+[Previous Year Question Paper](/resources/ML/CS467-A.pdf)
 
 # Notes:
 * [Module_1.pptx](/resources/ML/module_1.pptx)
